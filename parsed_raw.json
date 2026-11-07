@@ -1,0 +1,4087 @@
+{
+  "problems": [
+    {
+      "seq": 1,
+      "number": 1,
+      "numberText": "01",
+      "title": "Richest customer wealth",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/richest-customer-wealth/",
+      "logoXrefs": [
+        6813,
+        6803,
+        6809
+      ]
+    },
+    {
+      "seq": 2,
+      "number": 2,
+      "numberText": "02",
+      "title": "Two Sum",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/two-sum/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 3,
+      "number": 3,
+      "numberText": "03",
+      "title": "Count negative numbers in a sorted matrix",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/",
+      "logoXrefs": [
+        6803,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 4,
+      "number": 4,
+      "numberText": "04",
+      "title": "Next permutation",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/next-permutation/description/",
+      "logoXrefs": [
+        6813,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 5,
+      "number": 5,
+      "numberText": "05",
+      "title": "Median of two sorted arrays",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/description/",
+      "logoXrefs": [
+        6813,
+        6807,
+        6803
+      ]
+    },
+    {
+      "seq": 6,
+      "number": 6,
+      "numberText": "06",
+      "title": "Find greatest common divisor of array",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/",
+      "logoXrefs": [
+        6805,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 7,
+      "number": 7,
+      "numberText": "07",
+      "title": "Self dividing numbers",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 4,
+      "printedPage": 3,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/self-dividing-numbers/description/",
+      "logoXrefs": [
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 8,
+      "number": 8,
+      "numberText": "08",
+      "title": "Inversion of array - 1587115620",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+      "logoXrefs": [
+        710,
+        6803,
+        6809
+      ]
+    },
+    {
+      "seq": 9,
+      "number": 9,
+      "numberText": "09",
+      "title": "Reverse pairs",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "1-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/reverse-pairs/description/",
+      "logoXrefs": [
+        6813,
+        6825,
+        6809
+      ]
+    },
+    {
+      "seq": 10,
+      "number": 10,
+      "numberText": "10",
+      "title": "Special positions in a binary matrix",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "2-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/",
+      "logoXrefs": [
+        712,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 11,
+      "number": 11,
+      "numberText": "11",
+      "title": "Transpose Matrix",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "2-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/transpose-matrix/description/",
+      "logoXrefs": [
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 12,
+      "number": 12,
+      "numberText": "12",
+      "title": "01 Matrix",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "2-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/01-matrix/description/",
+      "logoXrefs": [
+        6813,
+        6819,
+        6809
+      ]
+    },
+    {
+      "seq": 13,
+      "number": 13,
+      "numberText": "13",
+      "title": "Spiral Matrix",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "2-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/spiral-matrix/description/",
+      "logoXrefs": [
+        6823,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 14,
+      "number": 14,
+      "numberText": "14",
+      "title": "Pascal's Triangle",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "2-D Array",
+      "pdfPage": 5,
+      "printedPage": 4,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/pascals-triangle/description/",
+      "logoXrefs": [
+        6813,
+        6803,
+        6809
+      ]
+    },
+    {
+      "seq": 15,
+      "number": 15,
+      "numberText": "15",
+      "title": "Minimum Size Subarray Sum",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Prefix Sum",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+      "logoXrefs": [
+        6813,
+        6819,
+        6809
+      ]
+    },
+    {
+      "seq": 16,
+      "number": 16,
+      "numberText": "16",
+      "title": "Running Sum of 1d Array",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Prefix Sum",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/running-sum-of-1d-array/description/",
+      "logoXrefs": [
+        6823,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 17,
+      "number": 17,
+      "numberText": "17",
+      "title": "Range Sum Query 2D Immutable",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Prefix Sum",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/description/",
+      "logoXrefs": [
+        6813,
+        6831,
+        901
+      ]
+    },
+    {
+      "seq": 18,
+      "number": 18,
+      "numberText": "18",
+      "title": "Maximum Subarray",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Kadane's Algorithm",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-subarray/description/",
+      "logoXrefs": [
+        6829,
+        6807,
+        6827
+      ]
+    },
+    {
+      "seq": 19,
+      "number": 19,
+      "numberText": "19",
+      "title": "Maximum Sum Circular Subarray",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Kadane's Algorithm",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/description/",
+      "logoXrefs": [
+        6823,
+        6833,
+        6803
+      ]
+    },
+    {
+      "seq": 20,
+      "number": 20,
+      "numberText": "20",
+      "title": "Longest Turbulent Subarray",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Kadane's Algorithm",
+      "pdfPage": 6,
+      "printedPage": 5,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-turbulent-subarray/description/",
+      "logoXrefs": [
+        6803,
+        6809,
+        6807
+      ]
+    },
+    {
+      "seq": 21,
+      "number": 21,
+      "numberText": "21",
+      "title": "Contains Duplicate II",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Sliding Window (Fixed/Variable Size)",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/contains-duplicate-ii/description/",
+      "logoXrefs": [
+        6811,
+        6841,
+        6813
+      ]
+    },
+    {
+      "seq": 22,
+      "number": 22,
+      "numberText": "22",
+      "title": "Number of Sub-arrays of Size K and Average ..",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Sliding Window (Fixed/Variable Size)",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/",
+      "logoXrefs": [
+        6829,
+        6809,
+        6827
+      ]
+    },
+    {
+      "seq": 23,
+      "number": 23,
+      "numberText": "23",
+      "title": "Minimum Size Subarray Sum",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Sliding Window (Fixed/Variable Size)",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-size-subarray-sum/description/",
+      "logoXrefs": [
+        6839,
+        6837
+      ]
+    },
+    {
+      "seq": 24,
+      "number": 24,
+      "numberText": "24",
+      "title": "Longest Substring Without Repeating Characters",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Sliding Window (Fixed/Variable Size)",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+      "logoXrefs": [
+        6843,
+        6809,
+        6841
+      ]
+    },
+    {
+      "seq": 25,
+      "number": 25,
+      "numberText": "25",
+      "title": "Longest Repeating Character Replacement",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Sliding Window (Fixed/Variable Size)",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/description/",
+      "logoXrefs": [
+        6813,
+        1076,
+        6809
+      ]
+    },
+    {
+      "seq": 26,
+      "number": 26,
+      "numberText": "26",
+      "title": "Container With Most Water",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Two Pointers",
+      "pdfPage": 7,
+      "printedPage": 6,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/container-with-most-water/description/",
+      "logoXrefs": [
+        6813,
+        1078,
+        6809
+      ]
+    },
+    {
+      "seq": 27,
+      "number": 27,
+      "numberText": "27",
+      "title": "Trapping Rain Water",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Two Pointers",
+      "pdfPage": 8,
+      "printedPage": 7,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/trapping-rain-water/description/",
+      "logoXrefs": [
+        6848,
+        6829,
+        6811
+      ]
+    },
+    {
+      "seq": 28,
+      "number": 28,
+      "numberText": "28",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Two Pointers",
+      "pdfPage": 8,
+      "printedPage": 7,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/",
+      "logoXrefs": [
+        6846,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 29,
+      "number": 29,
+      "numberText": "29",
+      "title": "K-diff Pairs in an Array",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Two Pointers",
+      "pdfPage": 8,
+      "printedPage": 7,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/",
+      "logoXrefs": [
+        6805,
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 30,
+      "number": 30,
+      "numberText": "30",
+      "title": "Find K Closest Elements",
+      "topic": "ARRAYS",
+      "topicSourceNumber": "01",
+      "topicOrder": 1,
+      "subtopic": "Two Pointers",
+      "pdfPage": 8,
+      "printedPage": 7,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-k-closest-elements/description/",
+      "logoXrefs": [
+        6823,
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 31,
+      "number": 31,
+      "numberText": "31",
+      "title": "Search in Rotated Sorted Array",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 32,
+      "number": 32,
+      "numberText": "32",
+      "title": "Remove Duplicates from Sorted Array",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+      "logoXrefs": [
+        6809,
+        6833,
+        6803
+      ]
+    },
+    {
+      "seq": 33,
+      "number": 33,
+      "numberText": "33",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+      "logoXrefs": [
+        6807,
+        6809,
+        6825
+      ]
+    },
+    {
+      "seq": 34,
+      "number": 34,
+      "numberText": "34",
+      "title": "Search a 2D Matrix",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/description/",
+      "logoXrefs": [
+        6807,
+        6809,
+        6837
+      ]
+    },
+    {
+      "seq": 35,
+      "number": 35,
+      "numberText": "35",
+      "title": "Find Peak Element",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-peak-element/description/",
+      "logoXrefs": [
+        6803,
+        6811,
+        6825
+      ]
+    },
+    {
+      "seq": 36,
+      "number": 36,
+      "numberText": "36",
+      "title": "Single Element in a Sorted Array",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/description/",
+      "logoXrefs": [
+        6813,
+        6825,
+        6809
+      ]
+    },
+    {
+      "seq": 37,
+      "number": 37,
+      "numberText": "37",
+      "title": "Preimage Size of Factorial Zeroes Function",
+      "topic": "Binary Search",
+      "topicSourceNumber": "02",
+      "topicOrder": 2,
+      "subtopic": "General",
+      "pdfPage": 9,
+      "printedPage": 8,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/",
+      "logoXrefs": [
+        6803,
+        6807
+      ]
+    },
+    {
+      "seq": 38,
+      "number": 38,
+      "numberText": "38",
+      "title": "Check if Two Arrays Are Equal or Not",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
+      "logoXrefs": [
+        6829,
+        6809,
+        6803
+      ]
+    },
+    {
+      "seq": 39,
+      "number": 39,
+      "numberText": "39",
+      "title": "Binary Array Sorting",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/0",
+      "logoXrefs": [
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 40,
+      "number": 40,
+      "numberText": "40",
+      "title": "Sort Colors",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/sort-colors/description/",
+      "logoXrefs": [
+        6813,
+        1567,
+        6807
+      ]
+    },
+    {
+      "seq": 41,
+      "number": 41,
+      "numberText": "41",
+      "title": "Kth Largest Element in an Array",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/description/",
+      "logoXrefs": [
+        1563,
+        6811,
+        6827
+      ]
+    },
+    {
+      "seq": 42,
+      "number": 42,
+      "numberText": "42",
+      "title": "Minimum Absolute Difference",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-absolute-difference/description/",
+      "logoXrefs": [
+        6856,
+        6854,
+        6860
+      ]
+    },
+    {
+      "seq": 43,
+      "number": 43,
+      "numberText": "43",
+      "title": "K Closest Points to Origin",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+      "logoXrefs": [
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 44,
+      "number": 44,
+      "numberText": "44",
+      "title": "Max Chunks To Make Sorted",
+      "topic": "Sorting",
+      "topicSourceNumber": "03",
+      "topicOrder": 3,
+      "subtopic": "General",
+      "pdfPage": 10,
+      "printedPage": 9,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/max-chunks-to-make-sorted/description/",
+      "logoXrefs": [
+        6858,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 45,
+      "number": 45,
+      "numberText": "45",
+      "title": "Contiguous Array",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/contiguous-array/description/",
+      "logoXrefs": [
+        6813,
+        6863,
+        6811
+      ]
+    },
+    {
+      "seq": 46,
+      "number": 46,
+      "numberText": "46",
+      "title": "Longest Consecutive Sequence",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6811
+      ]
+    },
+    {
+      "seq": 47,
+      "number": 47,
+      "numberText": "47",
+      "title": "Subarray Sum Equals K",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+      "logoXrefs": [
+        6813,
+        6803,
+        6854
+      ]
+    },
+    {
+      "seq": 48,
+      "number": 48,
+      "numberText": "48",
+      "title": "Valid Anagram",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/valid-anagram/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6807
+      ]
+    },
+    {
+      "seq": 49,
+      "number": 49,
+      "numberText": "49",
+      "title": "Valid Sudoku",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/valid-sudoku/description/",
+      "logoXrefs": [
+        6848,
+        6809,
+        6823
+      ]
+    },
+    {
+      "seq": 50,
+      "number": 50,
+      "numberText": "50",
+      "title": "Ugly Number II",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/ugly-number-ii/description/",
+      "logoXrefs": [
+        6813,
+        6829,
+        6811
+      ]
+    },
+    {
+      "seq": 51,
+      "number": 51,
+      "numberText": "51",
+      "title": "Subarray Sum Equals K",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 11,
+      "printedPage": 10,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/subarray-sum-equals-k/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6807
+      ]
+    },
+    {
+      "seq": 52,
+      "number": 52,
+      "numberText": "52",
+      "title": "Max Points on a Line",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 12,
+      "printedPage": 11,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/max-points-on-a-line/description/",
+      "logoXrefs": [
+        6813,
+        6831,
+        6865
+      ]
+    },
+    {
+      "seq": 53,
+      "number": 53,
+      "numberText": "53",
+      "title": "Palindrome Pairs",
+      "topic": "Hashing",
+      "topicSourceNumber": "04",
+      "topicOrder": 4,
+      "subtopic": "General",
+      "pdfPage": 12,
+      "printedPage": 11,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/palindrome-pairs/description/",
+      "logoXrefs": [
+        6858,
+        6829,
+        6809
+      ]
+    },
+    {
+      "seq": 54,
+      "number": 54,
+      "numberText": "54",
+      "title": "Middle of the Linked List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/description/",
+      "logoXrefs": [
+        6870,
+        6809,
+        6803
+      ]
+    },
+    {
+      "seq": 55,
+      "number": 55,
+      "numberText": "55",
+      "title": "Maximum Twin Sum of a Linked List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6807
+      ]
+    },
+    {
+      "seq": 56,
+      "number": 56,
+      "numberText": "56",
+      "title": "Merge Two Sorted Lists",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+      "logoXrefs": [
+        6813,
+        6805,
+        6811
+      ]
+    },
+    {
+      "seq": 57,
+      "number": 57,
+      "numberText": "57",
+      "title": "Linked List Cycle",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/linked-list-cycle/description/",
+      "logoXrefs": [
+        6803,
+        6837,
+        6811
+      ]
+    },
+    {
+      "seq": 58,
+      "number": 58,
+      "numberText": "58",
+      "title": "Reverse Nodes in k- Group",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6807
+      ]
+    },
+    {
+      "seq": 59,
+      "number": 59,
+      "numberText": "59",
+      "title": "Remove Nth Node From End of List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6811
+      ]
+    },
+    {
+      "seq": 60,
+      "number": 60,
+      "numberText": "60",
+      "title": "Linked List Cycle II",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 13,
+      "printedPage": 12,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "logoXrefs": [
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 61,
+      "number": 61,
+      "numberText": "61",
+      "title": "Delete Node in a Linked List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "logoXrefs": [
+        6876,
+        6807,
+        6803
+      ]
+    },
+    {
+      "seq": 62,
+      "number": 62,
+      "numberText": "62",
+      "title": "Reverse Linked List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "logoXrefs": [
+        6803,
+        6807,
+        6823
+      ]
+    },
+    {
+      "seq": 63,
+      "number": 63,
+      "numberText": "63",
+      "title": "Palindrome Linked List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6823
+      ]
+    },
+    {
+      "seq": 64,
+      "number": 64,
+      "numberText": "64",
+      "title": "Remove Linked List Elements",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "logoXrefs": [
+        6809,
+        6807,
+        2134
+      ]
+    },
+    {
+      "seq": 65,
+      "number": 65,
+      "numberText": "65",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6874
+      ]
+    },
+    {
+      "seq": 66,
+      "number": 66,
+      "numberText": "66",
+      "title": "Remove Duplicates from Sorted List II",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+      "logoXrefs": [
+        6809,
+        6803,
+        6813
+      ]
+    },
+    {
+      "seq": 67,
+      "number": 67,
+      "numberText": "67",
+      "title": "Reverse Linked List II",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "logoXrefs": [
+        6811,
+        6823,
+        6809
+      ]
+    },
+    {
+      "seq": 68,
+      "number": 68,
+      "numberText": "68",
+      "title": "Sort List",
+      "topic": "Linked Lists",
+      "topicSourceNumber": "05",
+      "topicOrder": 5,
+      "subtopic": "General",
+      "pdfPage": 14,
+      "printedPage": 13,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/sort-list/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6803
+      ]
+    },
+    {
+      "seq": 69,
+      "number": 69,
+      "numberText": "69",
+      "title": "Implement Stack using Queues",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/implement-stack-using-queues/description/",
+      "logoXrefs": [
+        6803,
+        6809,
+        6823
+      ]
+    },
+    {
+      "seq": 70,
+      "number": 70,
+      "numberText": "70",
+      "title": "Implement Queue using Stacks",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/implement-queue-using-stacks/description/",
+      "logoXrefs": [
+        6813,
+        6807
+      ]
+    },
+    {
+      "seq": 71,
+      "number": 71,
+      "numberText": "71",
+      "title": "Backspace String Compare",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/backspace-string-compare/description/",
+      "logoXrefs": [
+        6856,
+        6829,
+        6879
+      ]
+    },
+    {
+      "seq": 72,
+      "number": 72,
+      "numberText": "72",
+      "title": "Baseball Game",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/baseball-game/description/",
+      "logoXrefs": [
+        6811,
+        6813,
+        6823
+      ]
+    },
+    {
+      "seq": 73,
+      "number": 73,
+      "numberText": "73",
+      "title": "Longest Valid Parentheses",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-valid-parentheses/description/",
+      "logoXrefs": [
+        6848,
+        6827,
+        2318
+      ]
+    },
+    {
+      "seq": 74,
+      "number": 74,
+      "numberText": "74",
+      "title": "Evaluate Reverse Polish Notation",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/",
+      "logoXrefs": [
+        6809,
+        6813,
+        6811
+      ]
+    },
+    {
+      "seq": 75,
+      "number": 75,
+      "numberText": "75",
+      "title": "Daily Temperatures",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 15,
+      "printedPage": 14,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/daily-temperatures/description/",
+      "logoXrefs": [
+        6813,
+        2316,
+        6843
+      ]
+    },
+    {
+      "seq": 76,
+      "number": 76,
+      "numberText": "76",
+      "title": "Largest Rectangle in Histogram",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 16,
+      "printedPage": 15,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/description/",
+      "logoXrefs": [
+        6809,
+        6813,
+        6825
+      ]
+    },
+    {
+      "seq": 77,
+      "number": 77,
+      "numberText": "77",
+      "title": "Min Stack",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 16,
+      "printedPage": 15,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/min-stack/description/",
+      "logoXrefs": [
+        6870,
+        6813,
+        6884
+      ]
+    },
+    {
+      "seq": 78,
+      "number": 78,
+      "numberText": "78",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "topic": "Stack and Queue",
+      "topicSourceNumber": "06",
+      "topicOrder": 6,
+      "subtopic": "General",
+      "pdfPage": 16,
+      "printedPage": 15,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/",
+      "logoXrefs": [
+        6811,
+        6882,
+        6807
+      ]
+    },
+    {
+      "seq": 79,
+      "number": 79,
+      "numberText": "79",
+      "title": "Find Median from Data Stream",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-median-from-data-stream/description/",
+      "logoXrefs": [
+        6809,
+        6886,
+        6811
+      ]
+    },
+    {
+      "seq": 80,
+      "number": 80,
+      "numberText": "80",
+      "title": "Merge k Sorted Lists",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/merge-k-sorted-lists/description/",
+      "logoXrefs": [
+        6809,
+        6811,
+        6823
+      ]
+    },
+    {
+      "seq": 81,
+      "number": 81,
+      "numberText": "81",
+      "title": "Find K Pairs with Smallest Sums",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6884
+      ]
+    },
+    {
+      "seq": 82,
+      "number": 82,
+      "numberText": "82",
+      "title": "Meeting Rooms II",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/meeting-rooms-ii/description/",
+      "logoXrefs": [
+        6888,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 83,
+      "number": 83,
+      "numberText": "83",
+      "title": "Top K Frequent Elements",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/description/",
+      "logoXrefs": [
+        6860,
+        6813,
+        6829
+      ]
+    },
+    {
+      "seq": 84,
+      "number": 84,
+      "numberText": "84",
+      "title": "K Closest Points to Origin",
+      "topic": "Heap",
+      "topicSourceNumber": "07",
+      "topicOrder": 7,
+      "subtopic": "General",
+      "pdfPage": 17,
+      "printedPage": 16,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/k-closest-points-to-origin/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6837
+      ]
+    },
+    {
+      "seq": 85,
+      "number": 85,
+      "numberText": "85",
+      "title": "Count Good Numbers",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/count-good-numbers/description/",
+      "logoXrefs": [
+        6809,
+        6882,
+        6813
+      ]
+    },
+    {
+      "seq": 86,
+      "number": 86,
+      "numberText": "86",
+      "title": "Permutations",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/permutations/description/",
+      "logoXrefs": [
+        6803,
+        6809,
+        6827
+      ]
+    },
+    {
+      "seq": 87,
+      "number": 87,
+      "numberText": "87",
+      "title": "Permutations II",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/permutations-ii/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 88,
+      "number": 88,
+      "numberText": "88",
+      "title": "Subsets",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/subsets/description/",
+      "logoXrefs": [
+        6858,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 89,
+      "number": 89,
+      "numberText": "89",
+      "title": "Basic Calculator",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/basic-calculator/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6823
+      ]
+    },
+    {
+      "seq": 90,
+      "number": 90,
+      "numberText": "90",
+      "title": "Wildcard Matching",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Recursion",
+      "pdfPage": 18,
+      "printedPage": 17,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/wildcard-matching/description/",
+      "logoXrefs": [
+        6848,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 91,
+      "number": 91,
+      "numberText": "91",
+      "title": "Combinations",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/combinations/description/",
+      "logoXrefs": [
+        6811,
+        6809,
+        6807
+      ]
+    },
+    {
+      "seq": 92,
+      "number": 92,
+      "numberText": "92",
+      "title": "Combination Sum",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/combination-sum/description/",
+      "logoXrefs": [
+        6837,
+        6809,
+        6823
+      ]
+    },
+    {
+      "seq": 93,
+      "number": 93,
+      "numberText": "93",
+      "title": "Combination Sum III",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/combination-sum-iii/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6823
+      ]
+    },
+    {
+      "seq": 94,
+      "number": 94,
+      "numberText": "94",
+      "title": "Letter Combinations of a Phone Number",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 95,
+      "number": 95,
+      "numberText": "95",
+      "title": "Gray Code",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/gray-code/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 96,
+      "number": 96,
+      "numberText": "96",
+      "title": "Letter Case Permutation",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/letter-case-permutation/description/",
+      "logoXrefs": [
+        6813,
+        6803,
+        6827
+      ]
+    },
+    {
+      "seq": 97,
+      "number": 97,
+      "numberText": "97",
+      "title": "N-Queens",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/n-queens/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6829
+      ]
+    },
+    {
+      "seq": 98,
+      "number": 98,
+      "numberText": "98",
+      "title": "Sudoku Solver",
+      "topic": "Recursion & Backtracking",
+      "topicSourceNumber": "07",
+      "topicOrder": 8,
+      "subtopic": "Backtracking",
+      "pdfPage": 19,
+      "printedPage": 18,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/sudoku-solver/description/",
+      "logoXrefs": [
+        6870,
+        6803,
+        6811
+      ]
+    },
+    {
+      "seq": 99,
+      "number": 99,
+      "numberText": "99",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Binary Tree",
+      "pdfPage": 20,
+      "printedPage": 19,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/",
+      "logoXrefs": [
+        6807,
+        6809,
+        6882
+      ]
+    },
+    {
+      "seq": 100,
+      "number": 100,
+      "numberText": "100",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Binary Tree",
+      "pdfPage": 20,
+      "printedPage": 19,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/",
+      "logoXrefs": [
+        6807,
+        6803,
+        6809
+      ]
+    },
+    {
+      "seq": 101,
+      "number": 101,
+      "numberText": "101",
+      "title": "Path Sum",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Binary Tree",
+      "pdfPage": 20,
+      "printedPage": 19,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/path-sum/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6882
+      ]
+    },
+    {
+      "seq": 102,
+      "number": 102,
+      "numberText": "102",
+      "title": "Same Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Binary Tree",
+      "pdfPage": 20,
+      "printedPage": 19,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/same-tree/description/",
+      "logoXrefs": [
+        6813,
+        6827,
+        6803
+      ]
+    },
+    {
+      "seq": 103,
+      "number": 103,
+      "numberText": "103",
+      "title": "Binary Tree Level Order Traversal",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Level Order Traversal (BFS)",
+      "pdfPage": 20,
+      "printedPage": 19,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/description/",
+      "logoXrefs": [
+        6825,
+        6827,
+        6809
+      ]
+    },
+    {
+      "seq": 104,
+      "number": 104,
+      "numberText": "104",
+      "title": "Invert Binary Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Level Order Traversal (BFS)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/invert-binary-tree/description/",
+      "logoXrefs": [
+        6809,
+        6837,
+        6813
+      ]
+    },
+    {
+      "seq": 105,
+      "number": 105,
+      "numberText": "105",
+      "title": "Minimum Cost Tree From Leaf Values",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Level Order Traversal (BFS)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/",
+      "logoXrefs": [
+        6896,
+        3253,
+        6813
+      ]
+    },
+    {
+      "seq": 106,
+      "number": 106,
+      "numberText": "106",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "Level Order Traversal (BFS)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/",
+      "logoXrefs": [
+        6884,
+        6813,
+        6803
+      ]
+    },
+    {
+      "seq": 107,
+      "number": 107,
+      "numberText": "107",
+      "title": "Maximum Depth of Binary Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "DFS (Recursive & Iterative)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+      "logoXrefs": [
+        6809,
+        6811,
+        6823
+      ]
+    },
+    {
+      "seq": 108,
+      "number": 108,
+      "numberText": "108",
+      "title": "Sum of Left Leaves",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "DFS (Recursive & Iterative)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/sum-of-left-leaves/description/",
+      "logoXrefs": [
+        6879,
+        6813,
+        6811
+      ]
+    },
+    {
+      "seq": 109,
+      "number": 109,
+      "numberText": "109",
+      "title": "Binary Tree Right Side View",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "DFS (Recursive & Iterative)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/binary-tree-right-side-view/description/",
+      "logoXrefs": [
+        6811,
+        6899,
+        6825
+      ]
+    },
+    {
+      "seq": 110,
+      "number": 110,
+      "numberText": "110",
+      "title": "Path Sum II",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "DFS (Recursive & Iterative)",
+      "pdfPage": 21,
+      "printedPage": 20,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/path-sum-ii/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 111,
+      "number": 111,
+      "numberText": "111",
+      "title": "Path Sum III",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "DFS (Recursive & Iterative)",
+      "pdfPage": 22,
+      "printedPage": 21,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/path-sum-iii/description/",
+      "logoXrefs": [
+        6811,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 112,
+      "number": 112,
+      "numberText": "112",
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "BST",
+      "pdfPage": 22,
+      "printedPage": 21,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/",
+      "logoXrefs": [
+        6823,
+        6902,
+        6827
+      ]
+    },
+    {
+      "seq": 113,
+      "number": 113,
+      "numberText": "113",
+      "title": "Closest Binary Search Tree Value II",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "BST",
+      "pdfPage": 22,
+      "printedPage": 21,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/description",
+      "logoXrefs": [
+        6827,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 114,
+      "number": 114,
+      "numberText": "114",
+      "title": "Trim a Binary Search Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "BST",
+      "pdfPage": 22,
+      "printedPage": 21,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/trim-a-binary-search-tree/description/",
+      "logoXrefs": [
+        6809,
+        6899,
+        6882
+      ]
+    },
+    {
+      "seq": 115,
+      "number": 115,
+      "numberText": "115",
+      "title": "Search in a Binary Search Tree",
+      "topic": "Trees",
+      "topicSourceNumber": "08",
+      "topicOrder": 9,
+      "subtopic": "BST",
+      "pdfPage": 22,
+      "printedPage": 21,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/description/",
+      "logoXrefs": [
+        6803,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 116,
+      "number": 116,
+      "numberText": "116",
+      "title": "Queue Reconstruction by Height",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "BBST(AVL Tree)",
+      "pdfPage": 23,
+      "printedPage": 22,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/queue-reconstruction-by-height/description/",
+      "logoXrefs": [
+        6896,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 117,
+      "number": 117,
+      "numberText": "117",
+      "title": "Binary Tree Pruning",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "BBST(AVL Tree)",
+      "pdfPage": 23,
+      "printedPage": 22,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/binary-tree-pruning/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 118,
+      "number": 118,
+      "numberText": "118",
+      "title": "Balance a Binary Search Tree",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "BBST(AVL Tree)",
+      "pdfPage": 23,
+      "printedPage": 22,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/balance-a-binary-search-tree/description/",
+      "logoXrefs": [
+        6811,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 119,
+      "number": 119,
+      "numberText": "119",
+      "title": "Balanced Binary Tree",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "BBST(AVL Tree)",
+      "pdfPage": 23,
+      "printedPage": 22,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/balanced-binary-tree/description/",
+      "logoXrefs": [
+        6843,
+        6803,
+        6813
+      ]
+    },
+    {
+      "seq": 120,
+      "number": 120,
+      "numberText": "120",
+      "title": "Implement Trie (Prefix Tree)",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Trie",
+      "pdfPage": 23,
+      "printedPage": 22,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/implement-trie-prefix-tree/description/",
+      "logoXrefs": [
+        6813,
+        6865,
+        3554
+      ]
+    },
+    {
+      "seq": 121,
+      "number": 121,
+      "numberText": "121",
+      "title": "Design Add and Search Words Data Structure",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Trie",
+      "pdfPage": 24,
+      "printedPage": 23,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/",
+      "logoXrefs": [
+        6827,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 122,
+      "number": 122,
+      "numberText": "122",
+      "title": "Word Search II",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Trie",
+      "pdfPage": 24,
+      "printedPage": 23,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/word-search-ii/description/",
+      "logoXrefs": [
+        6825,
+        6837,
+        6809
+      ]
+    },
+    {
+      "seq": 123,
+      "number": 123,
+      "numberText": "123",
+      "title": "Redundant Connection",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Union-Find (Disjoint Set)",
+      "pdfPage": 24,
+      "printedPage": 23,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/redundant-connection/description/",
+      "logoXrefs": [
+        6811,
+        6839,
+        6813
+      ]
+    },
+    {
+      "seq": 124,
+      "number": 124,
+      "numberText": "124",
+      "title": "Accounts Merge",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Union-Find (Disjoint Set)",
+      "pdfPage": 24,
+      "printedPage": 23,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/accounts-merge/description/",
+      "logoXrefs": [
+        6886,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 125,
+      "number": 125,
+      "numberText": "125",
+      "title": "Range Sum Query Mutable",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Segment Tree (Range Queries)",
+      "pdfPage": 24,
+      "printedPage": 23,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/range-sum-query-mutable/description/",
+      "logoXrefs": [
+        6882,
+        6813,
+        6839
+      ]
+    },
+    {
+      "seq": 126,
+      "number": 126,
+      "numberText": "126",
+      "title": "Longest Increasing Subsequence II",
+      "topic": "Trees II",
+      "topicSourceNumber": "09",
+      "topicOrder": 10,
+      "subtopic": "Segment Tree (Range Queries)",
+      "pdfPage": 25,
+      "printedPage": 24,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence-ii/description/",
+      "logoXrefs": [
+        6813,
+        6823
+      ]
+    },
+    {
+      "seq": 127,
+      "number": 127,
+      "numberText": "127",
+      "title": "Rotting Oranges",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "BFS & DFS",
+      "pdfPage": 26,
+      "printedPage": 25,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/rotting-oranges/description/",
+      "logoXrefs": [
+        6809,
+        6854,
+        6813
+      ]
+    },
+    {
+      "seq": 128,
+      "number": 128,
+      "numberText": "128",
+      "title": "Word Ladder",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "BFS & DFS",
+      "pdfPage": 26,
+      "printedPage": 25,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/word-ladder/description/",
+      "logoXrefs": [
+        3979,
+        3981,
+        6811
+      ]
+    },
+    {
+      "seq": 129,
+      "number": 129,
+      "numberText": "129",
+      "title": "Number of Provinces",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "BFS & DFS",
+      "pdfPage": 26,
+      "printedPage": 25,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-provinces/description/",
+      "logoXrefs": [
+        6882,
+        6813,
+        6825
+      ]
+    },
+    {
+      "seq": 130,
+      "number": 130,
+      "numberText": "130",
+      "title": "Number of Enclaves",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "BFS & DFS",
+      "pdfPage": 26,
+      "printedPage": 25,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-enclaves/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 131,
+      "number": 131,
+      "numberText": "131",
+      "title": "Detect Cycle in an Undirected Graph",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 26,
+      "printedPage": 25,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+      "logoXrefs": [
+        6902,
+        6909,
+        6813
+      ]
+    },
+    {
+      "seq": 132,
+      "number": 132,
+      "numberText": "132",
+      "title": "Detect Cycle in a Directed Graph",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+      "logoXrefs": [
+        6899,
+        6807,
+        6809
+      ]
+    },
+    {
+      "seq": 133,
+      "number": 133,
+      "numberText": "133",
+      "title": "Course Schedule",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/course-schedule/description/",
+      "logoXrefs": [
+        6809,
+        6811,
+        6823
+      ]
+    },
+    {
+      "seq": 134,
+      "number": 134,
+      "numberText": "134",
+      "title": "Course Schedule II",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/course-schedule-ii/description/",
+      "logoXrefs": [
+        6809,
+        4175,
+        6805
+      ]
+    },
+    {
+      "seq": 135,
+      "number": 135,
+      "numberText": "135",
+      "title": "Find Eventual Safe States",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-eventual-safe-states/description/",
+      "logoXrefs": [
+        6807,
+        6809,
+        6813
+      ]
+    },
+    {
+      "seq": 136,
+      "number": 136,
+      "numberText": "136",
+      "title": "Alien Dictionary",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Detect Cycle in Undirected/ Directed Graph",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/alien-dictionary/description/",
+      "logoXrefs": [
+        6825,
+        6809,
+        6811
+      ]
+    },
+    {
+      "seq": 137,
+      "number": 137,
+      "numberText": "137",
+      "title": "Network Delay Time",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Dijkstra's Algorithm (SSSP)",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/network-delay-time/description/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6841
+      ]
+    },
+    {
+      "seq": 138,
+      "number": 138,
+      "numberText": "138",
+      "title": "Shortest Path in Binary Matrix",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Dijkstra's Algorithm (SSSP)",
+      "pdfPage": 27,
+      "printedPage": 26,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/",
+      "logoXrefs": [
+        6911,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 139,
+      "number": 139,
+      "numberText": "139",
+      "title": "Path With Minimum Effort",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Dijkstra's Algorithm (SSSP)",
+      "pdfPage": 28,
+      "printedPage": 27,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/path-with-minimum-effort/description/",
+      "logoXrefs": [
+        6809,
+        6825,
+        6813
+      ]
+    },
+    {
+      "seq": 140,
+      "number": 140,
+      "numberText": "140",
+      "title": "Cheapest Flights Within K Stops",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Dijkstra's Algorithm (SSSP)",
+      "pdfPage": 28,
+      "printedPage": 27,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+      "logoXrefs": [
+        6909,
+        4335,
+        6813
+      ]
+    },
+    {
+      "seq": 141,
+      "number": 141,
+      "numberText": "141",
+      "title": "Min Cost to Connect All Points",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Prim's & Kruskal's (MST)",
+      "pdfPage": 28,
+      "printedPage": 27,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/description/",
+      "logoXrefs": [
+        6809,
+        6825,
+        6813
+      ]
+    },
+    {
+      "seq": 142,
+      "number": 142,
+      "numberText": "142",
+      "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Prim's & Kruskal's (MST)",
+      "pdfPage": 28,
+      "printedPage": 27,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/",
+      "logoXrefs": [
+        6809,
+        6813
+      ]
+    },
+    {
+      "seq": 143,
+      "number": 143,
+      "numberText": "143",
+      "title": "Connecting Cities With Minimum Cost",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Prim's & Kruskal's (MST)",
+      "pdfPage": 28,
+      "printedPage": 27,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/description/",
+      "logoXrefs": [
+        6809
+      ]
+    },
+    {
+      "seq": 144,
+      "number": 144,
+      "numberText": "144",
+      "title": "Course Schedule IV",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Floyd-Warshall (APSP)",
+      "pdfPage": 29,
+      "printedPage": 28,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/course-schedule-iv/description/",
+      "logoXrefs": [
+        6811,
+        6813,
+        6825
+      ]
+    },
+    {
+      "seq": 145,
+      "number": 145,
+      "numberText": "145",
+      "title": "Find the City With the Smallest Number of Neighbors at a...",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Floyd-Warshall (APSP)",
+      "pdfPage": 29,
+      "printedPage": 28,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        4485
+      ]
+    },
+    {
+      "seq": 146,
+      "number": 146,
+      "numberText": "146",
+      "title": "Number of Ways to Arrive at Destination",
+      "topic": "GRAPHS",
+      "topicSourceNumber": "10",
+      "topicOrder": 11,
+      "subtopic": "Floyd-Warshall (APSP)",
+      "pdfPage": 29,
+      "printedPage": 28,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description",
+      "logoXrefs": [
+        6809,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 147,
+      "number": 147,
+      "numberText": "147",
+      "title": "Non-overlapping Intervals",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/non-overlapping-intervals/description/",
+      "logoXrefs": [
+        6829,
+        6809,
+        6813
+      ]
+    },
+    {
+      "seq": 148,
+      "number": 148,
+      "numberText": "148",
+      "title": "Minimum Platforms",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+      "logoXrefs": [
+        6876,
+        6913,
+        6888
+      ]
+    },
+    {
+      "seq": 149,
+      "number": 149,
+      "numberText": "149",
+      "title": "Maximize Sum Of Array After K Negations",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/",
+      "logoXrefs": [
+        6825,
+        6813
+      ]
+    },
+    {
+      "seq": 150,
+      "number": 150,
+      "numberText": "150",
+      "title": "Assign Mice to Holes",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "GeeksforGeeks",
+      "url": "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 151,
+      "number": 151,
+      "numberText": "151",
+      "title": "Maximum Product of Three Numbers",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/description/",
+      "logoXrefs": [
+        6805,
+        6809,
+        6803
+      ]
+    },
+    {
+      "seq": 152,
+      "number": 152,
+      "numberText": "152",
+      "title": "Bulb Switcher",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/bulb-switcher/description/",
+      "logoXrefs": [
+        6827,
+        4677,
+        6813
+      ]
+    },
+    {
+      "seq": 153,
+      "number": 153,
+      "numberText": "153",
+      "title": "Candy",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/candy/description/",
+      "logoXrefs": [
+        6809,
+        6803,
+        6807
+      ]
+    },
+    {
+      "seq": 154,
+      "number": 154,
+      "numberText": "154",
+      "title": "Maximum Swap",
+      "topic": "Greedy",
+      "topicSourceNumber": "10",
+      "topicOrder": 12,
+      "subtopic": "General",
+      "pdfPage": 30,
+      "printedPage": 29,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/maximum-swap/description/",
+      "logoXrefs": [
+        6811,
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 155,
+      "number": 155,
+      "numberText": "155",
+      "title": "Climbing Stairs",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Climbing Stairs",
+      "pdfPage": 31,
+      "printedPage": 30,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/climbing-stairs/description/",
+      "logoXrefs": [
+        6813,
+        6803,
+        6825
+      ]
+    },
+    {
+      "seq": 156,
+      "number": 156,
+      "numberText": "156",
+      "title": "Decode Ways",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Climbing Stairs",
+      "pdfPage": 31,
+      "printedPage": 30,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/decode-ways/description/",
+      "logoXrefs": [
+        6829,
+        6807,
+        6811
+      ]
+    },
+    {
+      "seq": 157,
+      "number": 157,
+      "numberText": "157",
+      "title": "Frog Jump",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Climbing Stairs",
+      "pdfPage": 31,
+      "printedPage": 30,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/frog-jump/description/",
+      "logoXrefs": [
+        6896,
+        6803,
+        6846
+      ]
+    },
+    {
+      "seq": 158,
+      "number": 158,
+      "numberText": "158",
+      "title": "Coin Change",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Coin Change (1D DP)",
+      "pdfPage": 31,
+      "printedPage": 30,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/coin-change/description/",
+      "logoXrefs": [
+        6809,
+        6854,
+        4846
+      ]
+    },
+    {
+      "seq": 159,
+      "number": 159,
+      "numberText": "159",
+      "title": "Minimum Jumps to Reach Home",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Coin Change (1D DP)",
+      "pdfPage": 31,
+      "printedPage": 30,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-jumps-to-reach-home/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 160,
+      "number": 160,
+      "numberText": "160",
+      "title": "Best Time to Buy and Sell Stock",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/",
+      "logoXrefs": [
+        6863,
+        6902,
+        5073
+      ]
+    },
+    {
+      "seq": 161,
+      "number": 161,
+      "numberText": "161",
+      "title": "Best Time to Buy and Sell Stock II",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/",
+      "logoXrefs": [
+        6913,
+        6807,
+        6860
+      ]
+    },
+    {
+      "seq": 162,
+      "number": 162,
+      "numberText": "162",
+      "title": "Best Time to Buy and Sell Stock III",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+      "logoXrefs": [
+        6896,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 163,
+      "number": 163,
+      "numberText": "163",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/",
+      "logoXrefs": [
+        6831,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 164,
+      "number": 164,
+      "numberText": "164",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/",
+      "logoXrefs": [
+        6843,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 165,
+      "number": 165,
+      "numberText": "165",
+      "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Buy and Sell Stock",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/",
+      "logoXrefs": [
+        6829,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 166,
+      "number": 166,
+      "numberText": "166",
+      "title": "Partition Equal Subset Sum #BeTheBoss",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "0/1 Knapsack",
+      "pdfPage": 32,
+      "printedPage": 31,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/partition-equal-subset-sum/description/",
+      "logoXrefs": [
+        6899,
+        6807,
+        6884
+      ]
+    },
+    {
+      "seq": 167,
+      "number": 167,
+      "numberText": "167",
+      "title": "Ones and Zeroes",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "0/1 Knapsack",
+      "pdfPage": 33,
+      "printedPage": 32,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/ones-and-zeroes/description/",
+      "logoXrefs": [
+        6813,
+        6811
+      ]
+    },
+    {
+      "seq": 168,
+      "number": 168,
+      "numberText": "168",
+      "title": "Coin Change II",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Unbounded Knapsack",
+      "pdfPage": 33,
+      "printedPage": 32,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/coin-change-ii/description/",
+      "logoXrefs": [
+        5238,
+        6913,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 169,
+      "number": 169,
+      "numberText": "169",
+      "title": "Last Stone Weight II",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Unbounded Knapsack",
+      "pdfPage": 33,
+      "printedPage": 32,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/last-stone-weight-ii/description/",
+      "logoXrefs": [
+        6809,
+        6882
+      ]
+    },
+    {
+      "seq": 170,
+      "number": 170,
+      "numberText": "170",
+      "title": "Longest Common Subsequence",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Common Subsequence (LCS)",
+      "pdfPage": 33,
+      "printedPage": 32,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/description/",
+      "logoXrefs": [
+        6805,
+        6837,
+        5240
+      ]
+    },
+    {
+      "seq": 171,
+      "number": 171,
+      "numberText": "171",
+      "title": "Edit Distance",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Common Subsequence (LCS)",
+      "pdfPage": 33,
+      "printedPage": 32,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/edit-distance/description/",
+      "logoXrefs": [
+        6809,
+        6899,
+        6913
+      ]
+    },
+    {
+      "seq": 172,
+      "number": 172,
+      "numberText": "172",
+      "title": "Longest Palindromic Subsequence",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Common Subsequence (LCS)",
+      "pdfPage": 34,
+      "printedPage": 33,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-palindromic-subsequence/description/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6811
+      ]
+    },
+    {
+      "seq": 173,
+      "number": 173,
+      "numberText": "173",
+      "title": "Minimum Insertion Steps to Make a String Palindrome",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Common Subsequence (LCS)",
+      "pdfPage": 34,
+      "printedPage": 33,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/",
+      "logoXrefs": [
+        6809,
+        6813,
+        6803
+      ]
+    },
+    {
+      "seq": 174,
+      "number": 174,
+      "numberText": "174",
+      "title": "Longest Increasing Subsequence",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Increasing Subsequence (LIS)",
+      "pdfPage": 34,
+      "printedPage": 33,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/description/",
+      "logoXrefs": [
+        6813,
+        6854,
+        6902
+      ]
+    },
+    {
+      "seq": 175,
+      "number": 175,
+      "numberText": "175",
+      "title": "Largest Divisible Subset",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Increasing Subsequence (LIS)",
+      "pdfPage": 34,
+      "printedPage": 33,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/largest-divisible-subset/description/",
+      "logoXrefs": [
+        6803,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 176,
+      "number": 176,
+      "numberText": "176",
+      "title": "Longest String Chain",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Longest Increasing Subsequence (LIS)",
+      "pdfPage": 34,
+      "printedPage": 33,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-string-chain/description/",
+      "logoXrefs": [
+        6888,
+        6874,
+        6813
+      ]
+    },
+    {
+      "seq": 177,
+      "number": 177,
+      "numberText": "177",
+      "title": "Minimum Cost to Cut a Stick",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Matrix Chain Multiplication (MCM)",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 178,
+      "number": 178,
+      "numberText": "178",
+      "title": "Burst Balloons",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Matrix Chain Multiplication (MCM)",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/burst-balloons/description/",
+      "logoXrefs": [
+        6813,
+        6896,
+        6899
+      ]
+    },
+    {
+      "seq": 179,
+      "number": 179,
+      "numberText": "179",
+      "title": "Parsing a Boolean Expression",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Matrix Chain Multiplication (MCM)",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/parsing-a-boolean-expression/description/",
+      "logoXrefs": [
+        6811,
+        6809,
+        6813
+      ]
+    },
+    {
+      "seq": 180,
+      "number": 180,
+      "numberText": "180",
+      "title": "Palindrome Partitioning II",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "Matrix Chain Multiplication (MCM)",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/palindrome-partitioning-ii/description/",
+      "logoXrefs": [
+        6809,
+        5596,
+        6813
+      ]
+    },
+    {
+      "seq": 181,
+      "number": 181,
+      "numberText": "181",
+      "title": "Shortest Path Visiting All Nodes",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "DP on Grids and Trees",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/",
+      "logoXrefs": [
+        6807,
+        6813,
+        6809
+      ]
+    },
+    {
+      "seq": 182,
+      "number": 182,
+      "numberText": "182",
+      "title": "Unique Paths",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "DP on Grids and Trees",
+      "pdfPage": 35,
+      "printedPage": 34,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/unique-paths/description/",
+      "logoXrefs": [
+        6803,
+        6809,
+        6913
+      ]
+    },
+    {
+      "seq": 183,
+      "number": 183,
+      "numberText": "183",
+      "title": "Unique Paths II",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "DP on Grids and Trees",
+      "pdfPage": 36,
+      "printedPage": 35,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/unique-paths-ii/description/",
+      "logoXrefs": [
+        6831,
+        6899,
+        6811
+      ]
+    },
+    {
+      "seq": 184,
+      "number": 184,
+      "numberText": "184",
+      "title": "Minimum Path Sum",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "DP on Grids and Trees",
+      "pdfPage": 36,
+      "printedPage": 35,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/minimum-path-sum/description/",
+      "logoXrefs": [
+        6805,
+        6829,
+        6813
+      ]
+    },
+    {
+      "seq": 185,
+      "number": 185,
+      "numberText": "185",
+      "title": "Russian Doll Envelopes",
+      "topic": "Dynamic Programming",
+      "topicSourceNumber": "10",
+      "topicOrder": 13,
+      "subtopic": "DP on Grids and Trees",
+      "pdfPage": 36,
+      "printedPage": 35,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/russian-doll-envelopes/description/",
+      "logoXrefs": [
+        6870,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 186,
+      "number": 186,
+      "numberText": "186",
+      "title": "Find Greatest Common Divisor of Array",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6882
+      ]
+    },
+    {
+      "seq": 187,
+      "number": 187,
+      "numberText": "187",
+      "title": "Self Dividing Numbers",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/self-dividing-numbers/",
+      "logoXrefs": [
+        6813,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 188,
+      "number": 188,
+      "numberText": "188",
+      "title": "Number of Good Pairs",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-good-pairs/",
+      "logoXrefs": [
+        6825,
+        6809,
+        6807
+      ]
+    },
+    {
+      "seq": 189,
+      "number": 189,
+      "numberText": "189",
+      "title": "Four Divisors",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/four-divisors/",
+      "logoXrefs": [
+        5874
+      ]
+    },
+    {
+      "seq": 190,
+      "number": 190,
+      "numberText": "190",
+      "title": "Day of the Week",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/day-of-the-week/",
+      "logoXrefs": [
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 191,
+      "number": 191,
+      "numberText": "191",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "logoXrefs": [
+        5877,
+        6811,
+        6813
+      ]
+    },
+    {
+      "seq": 192,
+      "number": 192,
+      "numberText": "192",
+      "title": "Count of Matches in Tournament",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 37,
+      "printedPage": 36,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6803
+      ]
+    },
+    {
+      "seq": 193,
+      "number": 193,
+      "numberText": "193",
+      "title": "Max Consecutive Ones",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/max-consecutive-ones/",
+      "logoXrefs": [
+        6823,
+        6813,
+        6837
+      ]
+    },
+    {
+      "seq": 194,
+      "number": 194,
+      "numberText": "194",
+      "title": "Rectangle Overlap",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/rectangle-overlap/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6831
+      ]
+    },
+    {
+      "seq": 195,
+      "number": 195,
+      "numberText": "195",
+      "title": "Excel Sheet Column",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "logoXrefs": [
+        6813,
+        6823,
+        6811
+      ]
+    },
+    {
+      "seq": 196,
+      "number": 196,
+      "numberText": "196",
+      "title": "Unique Paths",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/unique-paths/",
+      "logoXrefs": [
+        6803,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 197,
+      "number": 197,
+      "numberText": "197",
+      "title": "Rectangle Area",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/rectangle-area/",
+      "logoXrefs": [
+        6807,
+        6831,
+        6813
+      ]
+    },
+    {
+      "seq": 198,
+      "number": 198,
+      "numberText": "198",
+      "title": "Check If Array Pairs Are Divisible by k",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/",
+      "logoXrefs": [
+        6809,
+        6843,
+        6811
+      ]
+    },
+    {
+      "seq": 199,
+      "number": 199,
+      "numberText": "199",
+      "title": "Factorial Trailing Zeroes",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "logoXrefs": [
+        6809,
+        6807,
+        6813
+      ]
+    },
+    {
+      "seq": 200,
+      "number": 200,
+      "numberText": "200",
+      "title": "Nth Magical Number",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/nth-magical-number/",
+      "logoXrefs": [
+        6813,
+        6809,
+        6882
+      ]
+    },
+    {
+      "seq": 201,
+      "number": 201,
+      "numberText": "201",
+      "title": "Permutation Sequence",
+      "topic": "MATH",
+      "topicSourceNumber": "11",
+      "topicOrder": 14,
+      "subtopic": "General",
+      "pdfPage": 38,
+      "printedPage": 37,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/permutation-sequence/",
+      "logoXrefs": [
+        6865,
+        6803,
+        6813
+      ]
+    },
+    {
+      "seq": 202,
+      "number": 202,
+      "numberText": "202",
+      "title": "Single Number",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/single-number/description/",
+      "logoXrefs": [
+        6803,
+        6823,
+        6809
+      ]
+    },
+    {
+      "seq": 203,
+      "number": 203,
+      "numberText": "203",
+      "title": "Reverse Bits",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/reverse-bits/description/",
+      "logoXrefs": [
+        6823,
+        6831,
+        6911
+      ]
+    },
+    {
+      "seq": 204,
+      "number": 204,
+      "numberText": "204",
+      "title": "Single Number II",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/single-number-ii/description/",
+      "logoXrefs": [
+        6803,
+        6811,
+        6807
+      ]
+    },
+    {
+      "seq": 205,
+      "number": 205,
+      "numberText": "205",
+      "title": "Number of 1 Bits",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "logoXrefs": [
+        6823,
+        6811,
+        6803
+      ]
+    },
+    {
+      "seq": 206,
+      "number": 206,
+      "numberText": "206",
+      "title": "Factorial Trailing Zeroes",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/factorial-trailing-zeroes/description/",
+      "logoXrefs": [
+        6807,
+        6811,
+        6809
+      ]
+    },
+    {
+      "seq": 207,
+      "number": 207,
+      "numberText": "207",
+      "title": "Binary Number with Alternating Bits",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/description/",
+      "logoXrefs": [
+        6809,
+        6276
+      ]
+    },
+    {
+      "seq": 208,
+      "number": 208,
+      "numberText": "208",
+      "title": "Number of Even and Odd Bits",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Bit Manipulation Tricks",
+      "pdfPage": 39,
+      "printedPage": 38,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/number-of-even-and-odd-bits/description/",
+      "logoXrefs": [
+        6811,
+        6809,
+        6882
+      ]
+    },
+    {
+      "seq": 209,
+      "number": 209,
+      "numberText": "209",
+      "title": "Find the Index of the First Occurrence in a String",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Rabin-Karp (Rolling Hash)",
+      "pdfPage": 40,
+      "printedPage": 39,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
+      "logoXrefs": [
+        6825,
+        6803,
+        6813
+      ]
+    },
+    {
+      "seq": 210,
+      "number": 210,
+      "numberText": "210",
+      "title": "Repeated DNA Sequences",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Rabin-Karp (Rolling Hash)",
+      "pdfPage": 40,
+      "printedPage": 39,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/repeated-dna-sequences/description/",
+      "logoXrefs": [
+        6879,
+        6882,
+        6813
+      ]
+    },
+    {
+      "seq": 211,
+      "number": 211,
+      "numberText": "211",
+      "title": "Longest Duplicate Substring",
+      "topic": "Miscellaneous",
+      "topicSourceNumber": "11",
+      "topicOrder": 15,
+      "subtopic": "Rabin-Karp (Rolling Hash)",
+      "pdfPage": 40,
+      "printedPage": 39,
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/problems/longest-duplicate-substring/description/",
+      "logoXrefs": [
+        6809,
+        6813,
+        6825
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "sourceNumber": "01",
+      "name": "ARRAYS",
+      "pdfPage": 4,
+      "order": 1
+    },
+    {
+      "sourceNumber": "02",
+      "name": "Binary Search",
+      "pdfPage": 9,
+      "order": 2
+    },
+    {
+      "sourceNumber": "03",
+      "name": "Sorting",
+      "pdfPage": 10,
+      "order": 3
+    },
+    {
+      "sourceNumber": "04",
+      "name": "Hashing",
+      "pdfPage": 11,
+      "order": 4
+    },
+    {
+      "sourceNumber": "05",
+      "name": "Linked Lists",
+      "pdfPage": 13,
+      "order": 5
+    },
+    {
+      "sourceNumber": "06",
+      "name": "Stack and Queue",
+      "pdfPage": 15,
+      "order": 6
+    },
+    {
+      "sourceNumber": "07",
+      "name": "Heap",
+      "pdfPage": 17,
+      "order": 7
+    },
+    {
+      "sourceNumber": "07",
+      "name": "Recursion & Backtracking",
+      "pdfPage": 18,
+      "order": 8
+    },
+    {
+      "sourceNumber": "08",
+      "name": "Trees",
+      "pdfPage": 20,
+      "order": 9
+    },
+    {
+      "sourceNumber": "09",
+      "name": "Trees II",
+      "pdfPage": 23,
+      "order": 10
+    },
+    {
+      "sourceNumber": "10",
+      "name": "GRAPHS",
+      "pdfPage": 26,
+      "order": 11
+    },
+    {
+      "sourceNumber": "10",
+      "name": "Greedy",
+      "pdfPage": 30,
+      "order": 12
+    },
+    {
+      "sourceNumber": "10",
+      "name": "Dynamic Programming",
+      "pdfPage": 31,
+      "order": 13
+    },
+    {
+      "sourceNumber": "11",
+      "name": "MATH",
+      "pdfPage": 37,
+      "order": 14
+    },
+    {
+      "sourceNumber": "11",
+      "name": "Miscellaneous",
+      "pdfPage": 39,
+      "order": 15
+    }
+  ]
+}

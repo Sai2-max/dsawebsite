@@ -1,0 +1,844 @@
+
+
+============================== PAGE 1 ==============================
+Ultimate Guide to Mastering DSA
+Structured. Comprehensive. Results-Driven.
+DSA Sheet
+By  Bosscoder
+
+
+============================== PAGE 2 ==============================
+*Disclaimer*
+    Before you start with the sheet, a quick heads-up 
+This sheet is here to help you master DSA the smart way. Every problem is 
+carefully picked from Leetcode and GeeksforGeeks with guidance from 
+experienced mentors.
+
+But remember, Don’t just skim through solutions. 
+
+Only then check out different approaches, that’s how you really grow.
+
+
+
+Take your time. Think through the problem. 
+Try solving it your way first.
+
+BOSSCODER
+A C A D E M Y #BeTheBoss 1
+
+============================== PAGE 3 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 2
+Why Use This Sheet?
+Here’s why we feel this sheet is right for you
+1
+Structured Learning Path
+Start from the basics and scale up to advanced topics. Each 
+topic flows into the next so you’re never lost or stuck.
+Proven Track Record
+Over 1000+ learners have used this exact sheet to crack roles 
+at FAANG, Microsoft, and other top-tier companies.
+2
+Time-Efficient & Focused
+3
+Every problem here has a purpose. No time-wasters, no 
+duplicates,  just what you need to know.
+Pattern-Based Approach
+4
+You won’t just solve problems, you’ll understand how to spot patterns, 
+reuse logic, and approach any unseen question with confidence.
+
+============================== PAGE 4 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 3
+01 ARRAYS
+1-D Array
+# Algorithm Practice Link Asked in
+01 Richest customer wealth
+ Link
+02 Two Sum
+ Link
+03 Count negative numbers in a sorted matrix
+ Link
+04 Next permutation
+ Link
+05 Median of two sorted arrays
+ Link
+06 Find greatest common divisor of array
+ Link
+07 Self dividing numbers
+ Link
+
+
+============================== PAGE 5 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 4
+# Algorithm Practice Link Asked in
+08 Inversion of array - 1587115620
+ Link
+09 Reverse pairs
+ Link
+2-D Array
+# Algorithm Practice Link Asked in
+10 Special positions in a binary matrix
+ Link
+11 Transpose Matrix
+ Link
+12 01 Matrix 
+ Link
+13 Spiral Matrix
+ Link
+14 Pascal's Triangle
+ Link
+
+
+============================== PAGE 6 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 5
+Prefix Sum
+# Algorithm Practice Link Asked in
+15 Minimum Size Subarray Sum
+ Link
+16 Running Sum of 1d Array
+ Link
+17 Range Sum Query 2D Immutable
+ Link
+Kadane’s Algorithm
+# Algorithm Practice Link Asked in
+18 Maximum Subarray
+ Link
+19 Maximum Sum Circular Subarray
+ Link
+20 Longest Turbulent Subarray
+ Link
+
+
+============================== PAGE 7 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 6
+Sliding Window (Fixed/Variable Size)
+# Algorithm Practice Link Asked in
+21 Contains Duplicate II 
+ Link
+22 Number of Sub-arrays of Size K and Average ..
+ Link
+23 Minimum Size Subarray Sum
+ Link
+24 Longest Substring Without Repeating Characters
+ Link
+25 Longest Repeating Character Replacement 
+ Link
+Two Pointers
+# Algorithm Practice Link Asked in
+26 Container With Most Water
+ Link
+
+
+============================== PAGE 8 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 7
+# Algorithm Practice Link Asked in
+27 Trapping Rain Water 
+ Link
+28 Two Sum II - Input Array Is Sorted
+ Link
+29 K-diff Pairs in an Array
+ Link
+30 Find K Closest Elements
+ Link
+
+
+============================== PAGE 9 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 8
+02 Binary Search
+# Algorithm Practice Link Asked in
+31 Search in Rotated Sorted Array
+ Link
+32 Remove Duplicates from Sorted Array 
+ Link
+33
+Find First and Last 
+Position of Element 
+in Sorted Array
+Link
+34 Search a 2D Matrix
+ Link
+35 Find Peak Element
+ Link
+36 Single Element in a Sorted Array
+ Link
+37 Preimage Size of Factorial Zeroes Function
+ Link
+
+
+============================== PAGE 10 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 9
+03 Sorting
+# Algorithm Practice Link Asked in
+38 Check if Two Arrays Are Equal or Not
+ Link
+39 Binary Array Sorting
+ Link
+40 Sort Colors
+ Link
+41 Kth Largest Element in an Array
+ Link
+42 Minimum Absolute Difference
+ Link
+43 K Closest Points to Origin
+ Link
+44 Max Chunks To Make Sorted
+ Link
+
+
+============================== PAGE 11 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 10
+04 Hashing
+# Algorithm Practice Link Asked in
+45 Contiguous Array
+ Link
+46 Longest Consecutive Sequence
+ Link
+47 Subarray Sum Equals K 
+ Link
+48 Valid Anagram
+ Link
+49 Valid Sudoku
+ Link
+50 Ugly Number II 
+ Link
+51 Subarray Sum Equals K 
+ Link
+
+
+============================== PAGE 12 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 11
+# Algorithm Practice Link Asked in
+52 Max Points on a Line
+ Link
+53 Palindrome Pairs
+ Link
+
+
+============================== PAGE 13 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 12
+05 Linked Lists
+# Algorithm Practice Link Asked in
+54 Middle of the Linked List
+ Link
+55 Maximum Twin Sum of a Linked List
+ Link
+56 Merge Two Sorted Lists
+ Link
+57 Linked List Cycle
+ Link
+58 Reverse Nodes in k-Group
+ Link
+59 Remove Nth Node From End of List
+ Link
+60 Linked List Cycle II 
+ Link
+
+
+============================== PAGE 14 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 13
+# Algorithm Practice Link Asked in
+61 Delete Node in a Linked List
+ Link
+62 Reverse Linked List
+ Link
+63 Palindrome Linked List
+ Link
+64 Remove Linked List Elements
+ Link
+65
+Convert Binary 
+Number in a Linked 
+List to Integer
+Link
+66 Remove Duplicates from Sorted List II
+ Link
+67 Reverse Linked List II 
+ Link
+68 Sort List
+ Link
+
+
+============================== PAGE 15 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 14
+06 Stack and Queue
+# Algorithm Practice Link Asked in
+69 Implement Stack using Queues
+ Link
+70 Implement Queue using Stacks
+ Link
+71 Backspace String Compare
+ Link
+72 Baseball Game
+ Link
+73 Longest Valid Parentheses
+ Link
+74 Evaluate Reverse Polish Notation
+ Link
+75 Daily Temperatures
+ Link
+
+
+============================== PAGE 16 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 15
+# Algorithm Practice Link Asked in
+76 Largest Rectangle in Histogram
+ Link
+77 Min Stack
+ Link
+78
+Minimum Remove 
+to Make Valid 
+Parentheses
+Link
+
+
+============================== PAGE 17 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 16
+07 Heap
+# Algorithm Practice Link Asked in
+79 Find Median from Data Stream 
+ Link
+80 Merge k Sorted Lists
+ Link
+81 Find K Pairs with Smallest Sums
+ Link
+82 Meeting Rooms II
+ Link
+83 Top K Frequent Elements
+ Link
+84 K Closest Points to Origin
+ Link
+
+
+============================== PAGE 18 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 17
+07 Recursion & Backtracking
+Recursion
+# Algorithm Practice Link Asked in
+85 Count Good Numbers
+ Link
+86 Permutations
+ Link
+87 Permutations II
+ Link
+88 Subsets
+ Link
+89 Basic Calculator
+ Link
+90 Wildcard Matching
+ Link
+
+
+============================== PAGE 19 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 18
+Backtracking
+# Algorithm Practice Link Asked in
+91 Combinations
+ Link
+92 Combination Sum
+ Link
+93 Combination Sum III
+ Link
+94
+Letter 
+Combinations of 
+a Phone Number
+Link
+95 Gray Code
+ Link
+96 Letter Case Permutation
+ Link
+97 N-Queens
+ Link
+98 Sudoku Solver
+ Link
+
+
+============================== PAGE 20 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 19
+08 Trees
+Binary Tree
+# Algorithm Practice Link Asked in
+99
+Construct Binary Tree 
+from Inorder and 
+Postorder Traversal 
+Link
+100
+Construct Binary Tree 
+from Preorder and 
+Inorder Traversal
+Link
+101 Path Sum
+ Link
+102 Same Tree
+ Link
+Level Order Traversal (BFS)
+# Algorithm Practice Link Asked in
+103 Binary Tree Level Order Traversal
+ Link
+
+
+============================== PAGE 21 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 20
+# Algorithm Practice Link Asked in
+104 Invert Binary Tree
+ Link
+105 Minimum Cost Tree From Leaf Values
+ Link
+106
+Binary Tree Zigzag 
+Level Order 
+Traversal
+Link
+DFS (Recursive & Iterative)
+# Algorithm Practice Link Asked in
+107 Maximum Depth of Binary Tree
+ Link
+108 Sum of Left Leaves
+ Link
+109 Binary Tree Right Side View
+ Link
+110 Path Sum II
+ Link
+
+
+============================== PAGE 22 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 21
+# Algorithm Practice Link Asked in
+111 Path Sum III
+ Link
+BST
+# Algorithm Practice Link Asked in
+112
+Lowest Common 
+Ancestor of a Binary 
+Search Tree
+Link
+113 Closest Binary Search Tree Value II 
+ Link
+114 Trim a Binary Search Tree
+ Link
+115 Search in a Binary Search Tree 
+ Link
+
+
+============================== PAGE 23 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 22
+09 Trees II 
+BBST(AVL Tree) 
+# Algorithm Practice Link Asked in
+116 Queue Reconstruction by Height
+ Link
+117 Binary Tree Pruning
+ Link
+118 Balance a Binary Search Tree 
+ Link
+119 Balanced Binary Tree 
+ Link
+Trie 
+# Algorithm Practice Link Asked in
+120 Implement Trie (Prefix Tree)
+ Link
+
+
+============================== PAGE 24 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 23
+# Algorithm Practice Link Asked in
+121
+Design Add and 
+Search Words Data 
+Structure
+Link
+Union-Find (Disjoint Set)
+# Algorithm Practice Link Asked in
+123 Redundant Connection 
+ Link
+124 Accounts Merge
+ Link
+Segment Tree (Range Queries)
+# Algorithm Practice Link Asked in
+125 Range Sum Query Mutable
+ Link
+122 Word Search II
+ Link
+
+
+============================== PAGE 25 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 24
+# Algorithm Practice Link Asked in
+126 Longest Increasing Subsequence II
+ Link
+
+
+============================== PAGE 26 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 25
+10 GRAPHS
+BFS & DFS
+# Algorithm Practice Link Asked in
+127 Rotting Oranges 
+ Link
+128 Word Ladder 
+ Link
+129 Number of Provinces
+ Link
+130 Number of Enclaves 
+ Link
+Detect Cycle in Undirected/ Directed Graph
+# Algorithm Practice Link Asked in
+131 Detect Cycle in an Undirected Graph 
+ Link
+
+
+============================== PAGE 27 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 26
+# Algorithm Practice Link Asked in
+132 Detect Cycle in a Directed Graph
+ Link
+133 Course Schedule
+ Link
+134 Course Schedule II
+ Link
+135 Find Eventual Safe States 
+ Link
+136 Alien Dictionary
+ Link
+Dijkstra’s Algorithm (SSSP)
+# Algorithm Practice Link Asked in
+137 Network Delay Time
+ Link
+138 Shortest Path in Binary Matrix
+ Link
+
+
+============================== PAGE 28 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 27
+# Algorithm Practice Link Asked in
+139 Path With Minimum Effort
+ Link
+140 Cheapest Flights Within K Stops
+ Link
+Prim’s & Kruskal’s (MST)
+# Algorithm Practice Link Asked in
+141 Min Cost to Connect All Points 
+ Link
+142
+Find Critical and 
+Pseudo-Critical Edges in 
+Minimum Spanning Tree
+Link
+143 Connecting Cities With Minimum Cost
+ Link
+
+
+============================== PAGE 29 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 28
+Floyd-Warshall (APSP) 
+# Algorithm Practice Link Asked in
+144 Course Schedule IV
+ Link
+145
+Find the City With the 
+Smallest Number of 
+Neighbors at a...
+Link
+146 Number of Ways to Arrive at Destination
+ Link
+
+
+============================== PAGE 30 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 29
+10 Greedy
+# Algorithm Practice Link Asked in
+147 Non-overlapping Intervals
+ Link
+148 Minimum Platforms
+ Link
+149 Maximize Sum Of Array After K Negations
+ Link
+150 Assign Mice to Holes 
+ Link
+151 Maximum Product of Three Numbers
+ Link
+152 Bulb Switcher
+ Link
+153 Candy
+ Link
+154 Maximum Swap
+ Link
+
+
+============================== PAGE 31 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 30
+10 Dynamic Programming
+Climbing Stairs
+# Algorithm Practice Link Asked in
+155 Climbing Stairs
+ Link
+156 Decode Ways
+ Link
+157 Frog Jump
+ Link
+Coin Change (1D DP)
+# Algorithm Practice Link Asked in
+158 Coin Change
+ Link
+159 Minimum Jumps to Reach Home
+ Link
+
+
+============================== PAGE 32 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 31
+Buy and Sell Stock
+# Algorithm Practice Link Asked in
+160 Best Time to Buy and Sell Stock
+ Link
+161 Best Time to Buy and Sell Stock II
+ Link
+162 Best Time to Buy and Sell Stock III
+ Link
+163 Best Time to Buy and Sell Stock IV
+ Link
+164
+Best Time to Buy 
+and Sell Stock with 
+Cooldown
+Link
+165
+Best Time to Buy 
+and Sell Stock with 
+Transaction Fee
+Link
+0/1 Knapsack
+# Algorithm Practice Link Asked in
+166 Partition Equal Subset Sum
+ Link
+
+
+============================== PAGE 33 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 32
+# Algorithm Practice Link Asked in
+167 Ones and Zeroes
+ Link
+Unbounded Knapsack
+# Algorithm Practice Link Asked in
+168 Coin Change II
+ Link
+169 Last Stone Weight II
+ Link
+Longest Common Subsequence (LCS)
+# Algorithm Practice Link Asked in
+170 Longest Common Subsequence
+ Link
+171 Edit Distance
+ Link
+
+
+============================== PAGE 34 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 33
+# Algorithm Practice Link Asked in
+172 Longest Palindromic Subsequence
+ Link
+173
+Minimum Insertion 
+Steps to Make a String 
+Palindrome
+Link
+Longest Increasing Subsequence (LIS)
+# Algorithm Practice Link Asked in
+174 Longest Increasing Subsequence
+ Link
+175 Largest Divisible Subset
+ Link
+176 Longest String Chain
+ Link
+
+
+============================== PAGE 35 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 34
+Matrix Chain Multiplication (MCM)
+# Algorithm Practice Link Asked in
+177 Minimum Cost to Cut a Stick
+ Link
+178 Burst Balloons 
+ Link
+179 Parsing a Boolean Expression
+ Link
+180 Palindrome Partitioning II 
+ Link
+DP on Grids and Trees
+# Algorithm Practice Link Asked in
+181 Shortest Path Visiting All Nodes
+ Link
+182 Unique Paths
+ Link
+
+
+============================== PAGE 36 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 35
+# Algorithm Practice Link Asked in
+183 Unique Paths II
+ Link
+184 Minimum Path Sum
+ Link
+185 Russian Doll Envelopes
+ Link
+
+
+============================== PAGE 37 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 36
+11 MATH
+# Algorithm Practice Link Asked in
+186 Find Greatest Common Divisor of Array
+ Link
+187 Self Dividing Numbers
+ Link
+188 Number of Good Pairs
+ Link
+189 Four Divisors
+ Link
+190 Day of the Week
+ Link
+191
+Subtract the Product 
+and Sum of Digits of an 
+Integer
+Link
+192 Count of Matches in Tournament
+ Link
+
+
+============================== PAGE 38 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 37
+# Algorithm Practice Link Asked in
+193 Max Consecutive Ones 
+ Link
+194 Rectangle Overlap
+ Link
+195 Excel Sheet Column
+ Link
+196 Unique Paths 
+ Link
+197 Rectangle Area 
+ Link
+198 Check If Array Pairs Are Divisible by k 
+ Link
+199 Factorial Trailing Zeroes
+ Link
+200 Nth Magical Number
+ Link
+201 Permutation Sequence
+ Link
+
+
+============================== PAGE 39 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 38
+11 Miscell aneous
+Bit Manipulation Tricks
+# Algorithm Practice Link Asked in
+202 Single Number 
+ Link
+203 Reverse Bits
+ Link
+204 Single Number II 
+ Link
+205 Number of 1 Bits
+ Link
+206 Factorial Trailing Zeroes
+ Link
+207 Binary Number with Alternating Bits
+ Link
+208 Number of Even and Odd Bits 
+ Link
+
+
+============================== PAGE 40 ==============================
+BOSSCODER
+A C A D E M Y #BeTheBoss 39
+Rabin-Karp (Rolling Hash)
+# Algorithm Practice Link Asked in
+209
+Find the Index of the 
+First Occurrence in a 
+String
+Link
+210 Repeated DNA Sequences
+ Link
+211 Longest Duplicate Substring
+ Link
+
+
+============================== PAGE 41 ==============================
+W h y  B o s s c o d e r ?
+Explore More
+Niranjan Bagade 10 Y ears
+NICE
+Software Eng. 
+Specialist
+83%
+Hike
+Software Engineer
+British Petroleum
+Dheeraj Barik 2 Y ears
+Infosys
+Software Engineer
+550%
+Hike
+SDE 2
+Amazon
+01
+Structured Industry-
+vetted Curriculum
+Our curriculum covers everything you need to get 
+become a skilled software engineer & get placed.
+02
+1:1 Mentorship
+Sessions
+You are assigned a personal mentor currently working in 
+Top product based companies.
+03
+2200+ Alumni 
+placement
+2200+ Alumni  placed at Top Product-based companies.
+0 4
+2 4  LP A A VER A GE  
+P AC K A GE
+Our Average  Placement Package is  and 24 LPA
+highest is 98 LPA

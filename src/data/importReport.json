@@ -1,0 +1,125 @@
+{
+  "expectedProblems": 211,
+  "importedProblems": 211,
+  "uniqueProblems": 204,
+  "numbersContiguous": true,
+  "topicsImported": 15,
+  "platformCounts": {
+    "LeetCode": 204,
+    "GeeksforGeeks": 7
+  },
+  "linksPresent": 211,
+  "missingLinks": [],
+  "linksVerified": 211,
+  "linkFailures": [],
+  "titleCorrections": [
+    {
+      "number": 22,
+      "sourceTitle": "Number of Sub-arrays of Size K and Average ..",
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
+    },
+    {
+      "number": 145,
+      "sourceTitle": "Find the City With the Smallest Number of Neighbors at a...",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance"
+    },
+    {
+      "number": 166,
+      "sourceTitle": "Partition Equal Subset Sum #BeTheBoss",
+      "title": "Partition Equal Subset Sum"
+    },
+    {
+      "number": 195,
+      "sourceTitle": "Excel Sheet Column",
+      "title": "Excel Sheet Column Title"
+    }
+  ],
+  "unverifiedLogoRows": [
+    {
+      "number": 25,
+      "title": "Longest Repeating Character Replacement",
+      "logoCount": 1
+    },
+    {
+      "number": 120,
+      "title": "Implement Trie (Prefix Tree)",
+      "logoCount": 1
+    },
+    {
+      "number": 158,
+      "title": "Coin Change",
+      "logoCount": 1
+    }
+  ],
+  "companyAssociations": 611,
+  "uniqueCompanies": 54,
+  "duplicateTitleGroups": {
+    "find greatest common divisor of array": [
+      6,
+      186
+    ],
+    "self dividing numbers": [
+      7,
+      187
+    ],
+    "minimum size subarray sum": [
+      15,
+      23
+    ],
+    "k closest points to origin": [
+      43,
+      84
+    ],
+    "subarray sum equals k": [
+      47,
+      51
+    ],
+    "unique paths": [
+      182,
+      196
+    ],
+    "factorial trailing zeroes": [
+      199,
+      206
+    ]
+  },
+  "duplicateUrlGroups": {
+    "https://leetcode.com/problems/find-greatest-common-divisor-of-array": [
+      6,
+      186
+    ],
+    "https://leetcode.com/problems/self-dividing-numbers": [
+      7,
+      187
+    ],
+    "https://leetcode.com/problems/minimum-size-subarray-sum": [
+      15,
+      23
+    ],
+    "https://leetcode.com/problems/k-closest-points-to-origin": [
+      43,
+      84
+    ],
+    "https://leetcode.com/problems/subarray-sum-equals-k": [
+      47,
+      51
+    ],
+    "https://leetcode.com/problems/unique-paths": [
+      182,
+      196
+    ],
+    "https://leetcode.com/problems/factorial-trailing-zeroes": [
+      199,
+      206
+    ]
+  },
+  "duplicateProblemsPreserved": true,
+  "notes": [
+    "All 211 numbered rows are retained, including duplicate titles and duplicate URLs.",
+    "Seven rows point to an already-listed problem (after normalising /description/); unique-problem stats count those once.",
+    "Company associations come only from logo images placed on each PDF row.",
+    "Three logo marks could not be identified; they are counted as unverified and no company name was guessed.",
+    "Four truncated/footer-contaminated PDF titles were expanded using the verified LeetCode title; sourceTitle retains the PDF text.",
+    "Revision dates and all app dates use local calendar dates."
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "checkedAt": "2026-10-27T12:35:33.983Z",
+  "slugs": {
+    "richest-customer-wealth": {
+      "status": "verified",
+      "officialTitle": "Richest Customer Wealth",
+      "difficulty": "Easy"
+    },
+    "two-sum": {
+      "status": "verified",
+      "officialTitle": "Two Sum",
+      "difficulty": "Easy"
+    },
+    "count-negative-numbers-in-a-sorted-matrix": {
+      "status": "verified",
+      "officialTitle": "Count Negative Numbers in a Sorted Matrix",
+      "difficulty": "Easy"
+    },
+    "next-permutation": {
+      "status": "verified",
+      "officialTitle": "Next Permutation",
+      "difficulty": "Medium"
+    },
+    "median-of-two-sorted-arrays": {
+      "status": "verified",
+      "officialTitle": "Median of Two Sorted Arrays",
+      "difficulty": "Hard"
+    },
+    "find-greatest-common-divisor-of-array": {
+      "status": "verified",
+      "officialTitle": "Find Greatest Common Divisor of Array",
+      "difficulty": "Easy"
+    },
+    "self-dividing-numbers": {
+      "status": "verified",
+      "officialTitle": "Self Dividing Numbers",
+      "difficulty": "Easy"
+    },
+    "reverse-pairs": {
+      "status": "verified",
+      "officialTitle": "Reverse Pairs",
+      "difficulty": "Hard"
+    },
+    "special-positions-in-a-binary-matrix": {
+      "status": "verified",
+      "officialTitle": "Special Positions in a Binary Matrix",
+      "difficulty": "Easy"
+    },
+    "transpose-matrix": {
+      "status": "verified",
+      "officialTitle": "Transpose Matrix",
+      "difficulty": "Easy"
+    },
+    "01-matrix": {
+      "status": "verified",
+      "officialTitle": "01 Matrix",
+      "difficulty": "Medium"
+    },
+    "spiral-matrix": {
+      "status": "verified",
+      "officialTitle": "Spiral Matrix",
+      "difficulty": "Medium"
+    },
+    "pascals-triangle": {
+      "status": "verified",
+      "officialTitle": "Pascal's Triangle",
+      "difficulty": "Easy"
+    },
+    "minimum-size-subarray-sum": {
+      "status": "verified",
+      "officialTitle": "Minimum Size Subarray Sum",
+      "difficulty": "Medium"
+    },
+    "running-sum-of-1d-array": {
+      "status": "verified",
+      "officialTitle": "Running Sum of 1d Array",
+      "difficulty": "Easy"
+    },
+    "range-sum-query-2d-immutable": {
+      "status": "verified",
+      "officialTitle": "Range Sum Query 2D - Immutable",
+      "difficulty": "Medium"
+    },
+    "maximum-subarray": {
+      "status": "verified",
+      "officialTitle": "Maximum Subarray",
+      "difficulty": "Medium"
+    },
+    "maximum-sum-circular-subarray": {
+      "status": "verified",
+      "officialTitle": "Maximum Sum Circular Subarray",
+      "difficulty": "Medium"
+    },
+    "longest-turbulent-subarray": {
+      "status": "verified",
+      "officialTitle": "Longest Turbulent Subarray",
+      "difficulty": "Medium"
+    },
+    "contains-duplicate-ii": {
+      "status": "verified",
+      "officialTitle": "Contains Duplicate II",
+      "difficulty": "Easy"
+    },
+    "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+      "status": "verified",
+      "officialTitle": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "difficulty": "Medium"
+    },
+    "longest-substring-without-repeating-characters": {
+      "status": "verified",
+      "officialTitle": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium"
+    },
+    "longest-repeating-character-replacement": {
+      "status": "verified",
+      "officialTitle": "Longest Repeating Character Replacement",
+      "difficulty": "Medium"
+    },
+    "container-with-most-water": {
+      "status": "verified",
+      "officialTitle": "Container With Most Water",
+      "difficulty": "Medium"
+    },
+    "trapping-rain-water": {
+      "status": "verified",
+      "officialTitle": "Trapping Rain Water",
+      "difficulty": "Hard"
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "status": "verified",
+      "officialTitle": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Medium"
+    },
+    "k-diff-pairs-in-an-array": {
+      "status": "verified",
+      "officialTitle": "K-diff Pairs in an Array",
+      "difficulty": "Medium"
+    },
+    "find-k-closest-elements": {
+      "status": "verified",
+      "officialTitle": "Find K Closest Elements",
+      "difficulty": "Medium"
+    },
+    "search-in-rotated-sorted-array": {
+      "status": "verified",
+      "officialTitle": "Search in Rotated Sorted Array",
+      "difficulty": "Medium"
+    },
+    "remove-duplicates-from-sorted-array": {
+      "status": "verified",
+      "officialTitle": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy"
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+      "status": "verified",
+      "officialTitle": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium"
+    },
+    "search-a-2d-matrix": {
+      "status": "verified",
+      "officialTitle": "Search a 2D Matrix",
+      "difficulty": "Medium"
+    },
+    "find-peak-element": {
+      "status": "verified",
+      "officialTitle": "Find Peak Element",
+      "difficulty": "Medium"
+    },
+    "single-element-in-a-sorted-array": {
+      "status": "verified",
+      "officialTitle": "Single Element in a Sorted Array",
+      "difficulty": "Medium"
+    },
+    "preimage-size-of-factorial-zeroes-function": {
+      "status": "verified",
+      "officialTitle": "Preimage Size of Factorial Zeroes Function",
+      "difficulty": "Hard"
+    },
+    "sort-colors": {
+      "status": "verified",
+      "officialTitle": "Sort Colors",
+      "difficulty": "Medium"
+    },
+    "kth-largest-element-in-an-array": {
+      "status": "verified",
+      "officialTitle": "Kth Largest Element in an Array",
+      "difficulty": "Medium"
+    },
+    "minimum-absolute-difference": {
+      "status": "verified",
+      "officialTitle": "Minimum Absolute Difference",
+      "difficulty": "Easy"
+    },
+    "k-closest-points-to-origin": {
+      "status": "verified",
+      "officialTitle": "K Closest Points to Origin",
+      "difficulty": "Medium"
+    },
+    "max-chunks-to-make-sorted": {
+      "status": "verified",
+      "officialTitle": "Max Chunks To Make Sorted",
+      "difficulty": "Medium"
+    },
+    "contiguous-array": {
+      "status": "verified",
+      "officialTitle": "Contiguous Array",
+      "difficulty": "Medium"
+    },
+    "longest-consecutive-sequence": {
+      "status": "verified",
+      "officialTitle": "Longest Consecutive Sequence",
+      "difficulty": "Medium"
+    },
+    "subarray-sum-equals-k": {
+      "status": "verified",
+      "officialTitle": "Subarray Sum Equals K",
+      "difficulty": "Medium"
+    },
+    "valid-anagram": {
+      "status": "verified",
+      "officialTitle": "Valid Anagram",
+      "difficulty": "Easy"
+    },
+    "valid-sudoku": {
+      "status": "verified",
+      "officialTitle": "Valid Sudoku",
+      "difficulty": "Medium"
+    },
+    "ugly-number-ii": {
+      "status": "verified",
+      "officialTitle": "Ugly Number II",
+      "difficulty": "Medium"
+    },
+    "max-points-on-a-line": {
+      "status": "verified",
+      "officialTitle": "Max Points on a Line",
+      "difficulty": "Hard"
+    },
+    "palindrome-pairs": {
+      "status": "verified",
+      "officialTitle": "Palindrome Pairs",
+      "difficulty": "Hard"
+    },
+    "middle-of-the-linked-list": {
+      "status": "verified",
+      "officialTitle": "Middle of the Linked List",
+      "difficulty": "Easy"
+    },
+    "maximum-twin-sum-of-a-linked-list": {
+      "status": "verified",
+      "officialTitle": "Maximum Twin Sum of a Linked List",
+      "difficulty": "Medium"
+    },
+    "merge-two-sorted-lists": {
+      "status": "verified",
+      "officialTitle": "Merge Two Sorted Lists",
+      "difficulty": "Easy"
+    },
+    "linked-list-cycle": {
+      "status": "verified",
+      "officialTitle": "Linked List Cycle",
+      "difficulty": "Easy"
+    },
+    "reverse-nodes-in-k-group": {
+      "status": "verified",
+      "officialTitle": "Reverse Nodes in k-Group",
+      "difficulty": "Hard"
+    },
+    "remove-nth-node-from-end-of-list": {
+      "status": "verified",
+      "officialTitle": "Remove Nth Node From End of List",
+      "difficulty": "Medium"
+    },
+    "linked-list-cycle-ii": {
+      "status": "verified",
+      "officialTitle": "Linked List Cycle II",
+      "difficulty": "Medium"
+    },
+    "delete-node-in-a-linked-list": {
+      "status": "verified",
+      "officialTitle": "Delete Node in a Linked List",
+      "difficulty": "Medium"
+    },
+    "reverse-linked-list": {
+      "status": "verified",
+      "officialTitle": "Reverse Linked List",
+      "difficulty": "Easy"
+    },
+    "palindrome-linked-list": {
+      "status": "verified",
+      "officialTitle": "Palindrome Linked List",
+      "difficulty": "Easy"
+    },
+    "remove-linked-list-elements": {
+      "status": "verified",
+      "officialTitle": "Remove Linked List Elements",
+      "difficulty": "Easy"
+    },
+    "convert-binary-number-in-a-linked-list-to-integer": {
+      "status": "verified",
+      "officialTitle": "Convert Binary Number in a Linked List to Integer",
+      "difficulty": "Easy"
+    },
+    "remove-duplicates-from-sorted-list-ii": {
+      "status": "verified",
+      "officialTitle": "Remove Duplicates from Sorted List II",
+      "difficulty": "Medium"
+    },
+    "reverse-linked-list-ii": {
+      "status": "verified",
+      "officialTitle": "Reverse Linked List II",
+      "difficulty": "Medium"
+    },
+    "sort-list": {
+      "status": "verified",
+      "officialTitle": "Sort List",
+      "difficulty": "Medium"
+    },
+    "implement-stack-using-queues": {
+      "status": "verified",
+      "officialTitle": "Implement Stack using Queues",
+      "difficulty": "Easy"
+    },
+    "implement-queue-using-stacks": {
+      "status": "verified",
+      "officialTitle": "Implement Queue using Stacks",
+      "difficulty": "Easy"
+    },
+    "backspace-string-compare": {
+      "status": "verified",
+      "officialTitle": "Backspace String Compare",
+      "difficulty": "Easy"
+    },
+    "baseball-game": {
+      "status": "verified",
+      "officialTitle": "Baseball Game",
+      "difficulty": "Easy"
+    },
+    "longest-valid-parentheses": {
+      "status": "verified",
+      "officialTitle": "Longest Valid Parentheses",
+      "difficulty": "Hard"
+    },
+    "evaluate-reverse-polish-notation": {
+      "status": "verified",
+      "officialTitle": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium"
+    },
+    "daily-temperatures": {
+      "status": "verified",
+      "officialTitle": "Daily Temperatures",
+      "difficulty": "Medium"
+    },
+    "largest-rectangle-in-histogram": {
+      "status": "verified",
+      "officialTitle": "Largest Rectangle in Histogram",
+      "difficulty": "Hard"
+    },
+    "min-stack": {
+      "status": "verified",
+      "officialTitle": "Min Stack",
+      "difficulty": "Medium"
+    },
+    "minimum-remove-to-make-valid-parentheses": {
+      "status": "verified",
+      "officialTitle": "Minimum Remove to Make Valid Parentheses",
+      "difficulty": "Medium"
+    },
+    "find-median-from-data-stream": {
+      "status": "verified",
+      "officialTitle": "Find Median from Data Stream",
+      "difficulty": "Hard"
+    },
+    "merge-k-sorted-lists": {
+      "status": "verified",
+      "officialTitle": "Merge k Sorted Lists",
+      "difficulty": "Hard"
+    },
+    "find-k-pairs-with-smallest-sums": {
+      "status": "verified",
+      "officialTitle": "Find K Pairs with Smallest Sums",
+      "difficulty": "Medium"
+    },
+    "meeting-rooms-ii": {
+      "status": "verified",
+      "officialTitle": "Meeting Rooms II",
+      "difficulty": "Medium"
+    },
+    "top-k-frequent-elements": {
+      "status": "verified",
+      "officialTitle": "Top K Frequent Elements",
+      "difficulty": "Medium"
+    },
+    "count-good-numbers": {
+      "status": "verified",
+      "officialTitle": "Count Good Numbers",
+      "difficulty": "Medium"
+    },
+    "permutations": {
+      "status": "verified",
+      "officialTitle": "Permutations",
+      "difficulty": "Medium"
+    },
+    "permutations-ii": {
+      "status": "verified",
+      "officialTitle": "Permutations II",
+      "difficulty": "Medium"
+    },
+    "subsets": {
+      "status": "verified",
+      "officialTitle": "Subsets",
+      "difficulty": "Medium"
+    },
+    "basic-calculator": {
+      "status": "verified",
+      "officialTitle": "Basic Calculator",
+      "difficulty": "Hard"
+    },
+    "wildcard-matching": {
+      "status": "verified",
+      "officialTitle": "Wildcard Matching",
+      "difficulty": "Hard"
+    },
+    "combinations": {
+      "status": "verified",
+      "officialTitle": "Combinations",
+      "difficulty": "Medium"
+    },
+    "combination-sum": {
+      "status": "verified",
+      "officialTitle": "Combination Sum",
+      "difficulty": "Medium"
+    },
+    "combination-sum-iii": {
+      "status": "verified",
+      "officialTitle": "Combination Sum III",
+      "difficulty": "Medium"
+    },
+    "letter-combinations-of-a-phone-number": {
+      "status": "verified",
+      "officialTitle": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium"
+    },
+    "gray-code": {
+      "status": "verified",
+      "officialTitle": "Gray Code",
+      "difficulty": "Medium"
+    },
+    "letter-case-permutation": {
+      "status": "verified",
+      "officialTitle": "Letter Case Permutation",
+      "difficulty": "Medium"
+    },
+    "n-queens": {
+      "status": "verified",
+      "officialTitle": "N-Queens",
+      "difficulty": "Hard"
+    },
+    "sudoku-solver": {
+      "status": "verified",
+      "officialTitle": "Sudoku Solver",
+      "difficulty": "Hard"
+    },
+    "construct-binary-tree-from-inorder-and-postorder-traversal": {
+      "status": "verified",
+      "officialTitle": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "difficulty": "Medium"
+    },
+    "construct-binary-tree-from-preorder-and-inorder-traversal": {
+      "status": "verified",
+      "officialTitle": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "difficulty": "Medium"
+    },
+    "path-sum": {
+      "status": "verified",
+      "officialTitle": "Path Sum",
+      "difficulty": "Easy"
+    },
+    "same-tree": {
+      "status": "verified",
+      "officialTitle": "Same Tree",
+      "difficulty": "Easy"
+    },
+    "binary-tree-level-order-traversal": {
+      "status": "verified",
+      "officialTitle": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    "invert-binary-tree": {
+      "status": "verified",
+      "officialTitle": "Invert Binary Tree",
+      "difficulty": "Easy"
+    },
+    "minimum-cost-tree-from-leaf-values": {
+      "status": "verified",
+      "officialTitle": "Minimum Cost Tree From Leaf Values",
+      "difficulty": "Medium"
+    },
+    "binary-tree-zigzag-level-order-traversal": {
+      "status": "verified",
+      "officialTitle": "Binary Tree Zigzag Level Order Traversal",
+      "difficulty": "Medium"
+    },
+    "maximum-depth-of-binary-tree": {
+      "status": "verified",
+      "officialTitle": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy"
+    },
+    "sum-of-left-leaves": {
+      "status": "verified",
+      "officialTitle": "Sum of Left Leaves",
+      "difficulty": "Easy"
+    },
+    "binary-tree-right-side-view": {
+      "status": "verified",
+      "officialTitle": "Binary Tree Right Side View",
+      "difficulty": "Medium"
+    },
+    "path-sum-ii": {
+      "status": "verified",
+      "officialTitle": "Path Sum II",
+      "difficulty": "Medium"
+    },
+    "path-sum-iii": {
+      "status": "verified",
+      "officialTitle": "Path Sum III",
+      "difficulty": "Medium"
+    },
+    "lowest-common-ancestor-of-a-binary-search-tree": {
+      "status": "verified",
+      "officialTitle": "Lowest Common Ancestor of a Binary Search Tree",
+      "difficulty": "Medium"
+    },
+    "closest-binary-search-tree-value-ii": {
+      "status": "verified",
+      "officialTitle": "Closest Binary Search Tree Value II",
+      "difficulty": "Hard"
+    },
+    "trim-a-binary-search-tree": {
+      "status": "verified",
+      "officialTitle": "Trim a Binary Search Tree",
+      "difficulty": "Medium"
+    },
+    "search-in-a-binary-search-tree": {
+      "status": "verified",
+      "officialTitle": "Search in a Binary Search Tree",
+      "difficulty": "Easy"
+    },
+    "queue-reconstruction-by-height": {
+      "status": "verified",
+      "officialTitle": "Queue Reconstruction by Height",
+      "difficulty": "Medium"
+    },
+    "binary-tree-pruning": {
+      "status": "verified",
+      "officialTitle": "Binary Tree Pruning",
+      "difficulty": "Medium"
+    },
+    "balance-a-binary-search-tree": {
+      "status": "verified",
+      "officialTitle": "Balance a Binary Search Tree",
+      "difficulty": "Medium"
+    },
+    "balanced-binary-tree": {
+      "status": "verified",
+      "officialTitle": "Balanced Binary Tree",
+      "difficulty": "Easy"
+    },
+    "implement-trie-prefix-tree": {
+      "status": "verified",
+      "officialTitle": "Implement Trie (Prefix Tree)",
+      "difficulty": "Medium"
+    },
+    "design-add-and-search-words-data-structure": {
+      "status": "verified",
+      "officialTitle": "Design Add and Search Words Data Structure",
+      "difficulty": "Medium"
+    },
+    "word-search-ii": {
+      "status": "verified",
+      "officialTitle": "Word Search II",
+      "difficulty": "Hard"
+    },
+    "redundant-connection": {
+      "status": "verified",
+      "officialTitle": "Redundant Connection",
+      "difficulty": "Medium"
+    },
+    "accounts-merge": {
+      "status": "verified",
+      "officialTitle": "Accounts Merge",
+      "difficulty": "Medium"
+    },
+    "range-sum-query-mutable": {
+      "status": "verified",
+      "officialTitle": "Range Sum Query - Mutable",
+      "difficulty": "Medium"
+    },
+    "longest-increasing-subsequence-ii": {
+      "status": "verified",
+      "officialTitle": "Longest Increasing Subsequence II",
+      "difficulty": "Hard"
+    },
+    "rotting-oranges": {
+      "status": "verified",
+      "officialTitle": "Rotting Oranges",
+      "difficulty": "Medium"
+    },
+    "word-ladder": {
+      "status": "verified",
+      "officialTitle": "Word Ladder",
+      "difficulty": "Hard"
+    },
+    "number-of-provinces": {
+      "status": "verified",
+      "officialTitle": "Number of Provinces",
+      "difficulty": "Medium"
+    },
+    "number-of-enclaves": {
+      "status": "verified",
+      "officialTitle": "Number of Enclaves",
+      "difficulty": "Medium"
+    },
+    "course-schedule": {
+      "status": "verified",
+      "officialTitle": "Course Schedule",
+      "difficulty": "Medium"
+    },
+    "course-schedule-ii": {
+      "status": "verified",
+      "officialTitle": "Course Schedule II",
+      "difficulty": "Medium"
+    },
+    "find-eventual-safe-states": {
+      "status": "verified",
+      "officialTitle": "Find Eventual Safe States",
+      "difficulty": "Medium"
+    },
+    "alien-dictionary": {
+      "status": "verified",
+      "officialTitle": "Alien Dictionary",
+      "difficulty": "Hard"
+    },
+    "network-delay-time": {
+      "status": "verified",
+      "officialTitle": "Network Delay Time",
+      "difficulty": "Medium"
+    },
+    "shortest-path-in-binary-matrix": {
+      "status": "verified",
+      "officialTitle": "Shortest Path in Binary Matrix",
+      "difficulty": "Medium"
+    },
+    "path-with-minimum-effort": {
+      "status": "verified",
+      "officialTitle": "Path With Minimum Effort",
+      "difficulty": "Medium"
+    },
+    "cheapest-flights-within-k-stops": {
+      "status": "verified",
+      "officialTitle": "Cheapest Flights Within K Stops",
+      "difficulty": "Medium"
+    },
+    "min-cost-to-connect-all-points": {
+      "status": "verified",
+      "officialTitle": "Min Cost to Connect All Points",
+      "difficulty": "Medium"
+    },
+    "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree": {
+      "status": "verified",
+      "officialTitle": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+      "difficulty": "Hard"
+    },
+    "connecting-cities-with-minimum-cost": {
+      "status": "verified",
+      "officialTitle": "Connecting Cities With Minimum Cost",
+      "difficulty": "Medium"
+    },
+    "course-schedule-iv": {
+      "status": "verified",
+      "officialTitle": "Course Schedule IV",
+      "difficulty": "Medium"
+    },
+    "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance": {
+      "status": "verified",
+      "officialTitle": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "difficulty": "Medium"
+    },
+    "number-of-ways-to-arrive-at-destination": {
+      "status": "verified",
+      "officialTitle": "Number of Ways to Arrive at Destination",
+      "difficulty": "Medium"
+    },
+    "non-overlapping-intervals": {
+      "status": "verified",
+      "officialTitle": "Non-overlapping Intervals",
+      "difficulty": "Medium"
+    },
+    "maximize-sum-of-array-after-k-negations": {
+      "status": "verified",
+      "officialTitle": "Maximize Sum Of Array After K Negations",
+      "difficulty": "Easy"
+    },
+    "maximum-product-of-three-numbers": {
+      "status": "verified",
+      "officialTitle": "Maximum Product of Three Numbers",
+      "difficulty": "Easy"
+    },
+    "bulb-switcher": {
+      "status": "verified",
+      "officialTitle": "Bulb Switcher",
+      "difficulty": "Medium"
+    },
+    "candy": {
+      "status": "verified",
+      "officialTitle": "Candy",
+      "difficulty": "Hard"
+    },
+    "maximum-swap": {
+      "status": "verified",
+      "officialTitle": "Maximum Swap",
+      "difficulty": "Medium"
+    },
+    "climbing-stairs": {
+      "status": "verified",
+      "officialTitle": "Climbing Stairs",
+      "difficulty": "Easy"
+    },
+    "decode-ways": {
+      "status": "verified",
+      "officialTitle": "Decode Ways",
+      "difficulty": "Medium"
+    },
+    "frog-jump": {
+      "status": "verified",
+      "officialTitle": "Frog Jump",
+      "difficulty": "Hard"
+    },
+    "coin-change": {
+      "status": "verified",
+      "officialTitle": "Coin Change",
+      "difficulty": "Medium"
+    },
+    "minimum-jumps-to-reach-home": {
+      "status": "verified",
+      "officialTitle": "Minimum Jumps to Reach Home",
+      "difficulty": "Medium"
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy"
+    },
+    "best-time-to-buy-and-sell-stock-ii": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium"
+    },
+    "best-time-to-buy-and-sell-stock-iii": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock III",
+      "difficulty": "Hard"
+    },
+    "best-time-to-buy-and-sell-stock-iv": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock IV",
+      "difficulty": "Hard"
+    },
+    "best-time-to-buy-and-sell-stock-with-cooldown": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock with Cooldown",
+      "difficulty": "Medium"
+    },
+    "best-time-to-buy-and-sell-stock-with-transaction-fee": {
+      "status": "verified",
+      "officialTitle": "Best Time to Buy and Sell Stock with Transaction Fee",
+      "difficulty": "Medium"
+    },
+    "partition-equal-subset-sum": {
+      "status": "verified",
+      "officialTitle": "Partition Equal Subset Sum",
+      "difficulty": "Medium"
+    },
+    "ones-and-zeroes": {
+      "status": "verified",
+      "officialTitle": "Ones and Zeroes",
+      "difficulty": "Medium"
+    },
+    "coin-change-ii": {
+      "status": "verified",
+      "officialTitle": "Coin Change II",
+      "difficulty": "Medium"
+    },
+    "last-stone-weight-ii": {
+      "status": "verified",
+      "officialTitle": "Last Stone Weight II",
+      "difficulty": "Medium"
+    },
+    "longest-common-subsequence": {
+      "status": "verified",
+      "officialTitle": "Longest Common Subsequence",
+      "difficulty": "Medium"
+    },
+    "edit-distance": {
+      "status": "verified",
+      "officialTitle": "Edit Distance",
+      "difficulty": "Medium"
+    },
+    "longest-palindromic-subsequence": {
+      "status": "verified",
+      "officialTitle": "Longest Palindromic Subsequence",
+      "difficulty": "Medium"
+    },
+    "minimum-insertion-steps-to-make-a-string-palindrome": {
+      "status": "verified",
+      "officialTitle": "Minimum Insertion Steps to Make a String Palindrome",
+      "difficulty": "Hard"
+    },
+    "longest-increasing-subsequence": {
+      "status": "verified",
+      "officialTitle": "Longest Increasing Subsequence",
+      "difficulty": "Medium"
+    },
+    "largest-divisible-subset": {
+      "status": "verified",
+      "officialTitle": "Largest Divisible Subset",
+      "difficulty": "Medium"
+    },
+    "longest-string-chain": {
+      "status": "verified",
+      "officialTitle": "Longest String Chain",
+      "difficulty": "Medium"
+    },
+    "minimum-cost-to-cut-a-stick": {
+      "status": "verified",
+      "officialTitle": "Minimum Cost to Cut a Stick",
+      "difficulty": "Hard"
+    },
+    "burst-balloons": {
+      "status": "verified",
+      "officialTitle": "Burst Balloons",
+      "difficulty": "Hard"
+    },
+    "parsing-a-boolean-expression": {
+      "status": "verified",
+      "officialTitle": "Parsing A Boolean Expression",
+      "difficulty": "Hard"
+    },
+    "palindrome-partitioning-ii": {
+      "status": "verified",
+      "officialTitle": "Palindrome Partitioning II",
+      "difficulty": "Hard"
+    },
+    "shortest-path-visiting-all-nodes": {
+      "status": "verified",
+      "officialTitle": "Shortest Path Visiting All Nodes",
+      "difficulty": "Hard"
+    },
+    "unique-paths": {
+      "status": "verified",
+      "officialTitle": "Unique Paths",
+      "difficulty": "Medium"
+    },
+    "unique-paths-ii": {
+      "status": "verified",
+      "officialTitle": "Unique Paths II",
+      "difficulty": "Medium"
+    },
+    "minimum-path-sum": {
+      "status": "verified",
+      "officialTitle": "Minimum Path Sum",
+      "difficulty": "Medium"
+    },
+    "russian-doll-envelopes": {
+      "status": "verified",
+      "officialTitle": "Russian Doll Envelopes",
+      "difficulty": "Hard"
+    },
+    "number-of-good-pairs": {
+      "status": "verified",
+      "officialTitle": "Number of Good Pairs",
+      "difficulty": "Easy"
+    },
+    "four-divisors": {
+      "status": "verified",
+      "officialTitle": "Four Divisors",
+      "difficulty": "Medium"
+    },
+    "day-of-the-week": {
+      "status": "verified",
+      "officialTitle": "Day of the Week",
+      "difficulty": "Easy"
+    },
+    "subtract-the-product-and-sum-of-digits-of-an-integer": {
+      "status": "verified",
+      "officialTitle": "Subtract the Product and Sum of Digits of an Integer",
+      "difficulty": "Easy"
+    },
+    "count-of-matches-in-tournament": {
+      "status": "verified",
+      "officialTitle": "Count of Matches in Tournament",
+      "difficulty": "Easy"
+    },
+    "max-consecutive-ones": {
+      "status": "verified",
+      "officialTitle": "Max Consecutive Ones",
+      "difficulty": "Easy"
+    },
+    "rectangle-overlap": {
+      "status": "verified",
+      "officialTitle": "Rectangle Overlap",
+      "difficulty": "Easy"
+    },
+    "excel-sheet-column-title": {
+      "status": "verified",
+      "officialTitle": "Excel Sheet Column Title",
+      "difficulty": "Easy"
+    },
+    "rectangle-area": {
+      "status": "verified",
+      "officialTitle": "Rectangle Area",
+      "difficulty": "Medium"
+    },
+    "check-if-array-pairs-are-divisible-by-k": {
+      "status": "verified",
+      "officialTitle": "Check If Array Pairs Are Divisible by k",
+      "difficulty": "Medium"
+    },
+    "factorial-trailing-zeroes": {
+      "status": "verified",
+      "officialTitle": "Factorial Trailing Zeroes",
+      "difficulty": "Medium"
+    },
+    "nth-magical-number": {
+      "status": "verified",
+      "officialTitle": "Nth Magical Number",
+      "difficulty": "Hard"
+    },
+    "permutation-sequence": {
+      "status": "verified",
+      "officialTitle": "Permutation Sequence",
+      "difficulty": "Hard"
+    },
+    "single-number": {
+      "status": "verified",
+      "officialTitle": "Single Number",
+      "difficulty": "Easy"
+    },
+    "reverse-bits": {
+      "status": "verified",
+      "officialTitle": "Reverse Bits",
+      "difficulty": "Easy"
+    },
+    "single-number-ii": {
+      "status": "verified",
+      "officialTitle": "Single Number II",
+      "difficulty": "Medium"
+    },
+    "number-of-1-bits": {
+      "status": "verified",
+      "officialTitle": "Number of 1 Bits",
+      "difficulty": "Easy"
+    },
+    "binary-number-with-alternating-bits": {
+      "status": "verified",
+      "officialTitle": "Binary Number with Alternating Bits",
+      "difficulty": "Easy"
+    },
+    "number-of-even-and-odd-bits": {
+      "status": "verified",
+      "officialTitle": "Number of Even and Odd Bits",
+      "difficulty": "Easy"
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "status": "verified",
+      "officialTitle": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy"
+    },
+    "repeated-dna-sequences": {
+      "status": "verified",
+      "officialTitle": "Repeated DNA Sequences",
+      "difficulty": "Medium"
+    },
+    "longest-duplicate-substring": {
+      "status": "verified",
+      "officialTitle": "Longest Duplicate Substring",
+      "difficulty": "Hard"
+    },
+    "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/0": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
+      "httpStatus": 200
+    },
+    "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1": {
+      "status": "verified",
+      "finalUrl": "https://www.geeksforgeeks.org/problems/assign-mice-holes3053/1",
+      "httpStatus": 200
+    }
+  }
+}

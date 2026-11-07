@@ -1,0 +1,12 @@
+﻿from pathlib import Path
+p=Path('src/pages/ProblemDetail.tsx')
+s=p.read_text(encoding='utf-8')
+s=s.replace("import { useEffect, useMemo, useState } from 'react';","import { useEffect, useState } from 'react';")
+s=s.replace("  Info,\n  Link2,\n","  Info,\n")
+s=s.replace("import { Field, Select, TextArea } from '../components/ui/Form';","import { Field, TextArea } from '../components/ui/Form';")
+s=s.replace("import { Button, IconButton } from '../components/ui/Button';","import { Button } from '../components/ui/Button';")
+s=s.replace("import type { ProblemProgress, ReviewStage } from '../types';","import type { ProblemProgress } from '../types';")
+s=s.replace("  formatMinutes,\n  relativeDueLabel,\n  todayKey,\n} from '../lib/dates';","  formatMinutes,\n  relativeDueLabel,\n  toDateKey,\n} from '../lib/dates';")
+s=s.replace("formatDateKey(new Date(attempt.createdAt).toISOString().slice(0, 10), { month: 'short', day: 'numeric' })","formatDateKey(toDateKey(new Date(attempt.createdAt)), { month: 'short', day: 'numeric' })")
+p.write_text(s,encoding='utf-8')
+print('fixed')
